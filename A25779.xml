@@ -1,0 +1,829 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The argument of a learned counsel, upon an action of the case brought by the East-India-Company, against Mr. Thomas Sands, an interloper</title>
+            <author>Pollexfen, Henry, Sir, 1632?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25779</idno>
+            <idno type="STC">Wing A3633</idno>
+            <idno type="STC">ESTC R12992</idno>
+            <idno type="EEBO-CITATION">12934398</idno>
+            <idno type="OCLC">ocm 12934398</idno>
+            <idno type="VID">95733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The argument of a learned counsel, upon an action of the case brought by the East-India-Company, against Mr. Thomas Sands, an interloper</title>
+                  <author>Pollexfen, Henry, Sir, 1632?-1691.</author>
+               </titleStmt>
+               <extent>77, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1-3] at end.</note>
+                  <note>Marginal notes.</note>
+                  <note>BM identifies "a learned counsel" as Sir H. Pollexfen. Cf. also DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sandys, Thomas.</term>
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95733:1"/>
+            <pb facs="tcp:95733:1"/>
+            <p>THE ARGUMENT OF A Learned Counſel, UPON AN Action of the CASE Brought by the <hi>Eaſt-India-Company,</hi> AGAINST Mr. <hi>Thomas Sands,</hi> an In<g ref="char:EOLhyphen"/>terloper.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, for <hi>B. Aylmer</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95733:2"/>
+            <pb n="3" facs="tcp:95733:2"/>
+            <head>De Termino Paſchae, Anno xxxvi. Caroli II. Regis: In Banco Regis. <hi>Gubernator &amp; Socie<g ref="char:EOLhyphen"/>tas Mercator' de Lon<g ref="char:EOLhyphen"/>don in Oriental' Indi<g ref="char:EOLhyphen"/>am negotiant'.</hi> againſt <hi>Tho. Sands.</hi>
+            </head>
+            <p>AN Action upon the Caſe, where<g ref="char:EOLhyphen"/>in the Plaintiff declares, That, Our Lord the King,<note place="margin">3. Apr. 13 C. II.</note> by his Letters Patents, reciting that the Company of Merchants trading to the <hi>Eaſt Indies,</hi> have been long a Corporation, and en<g ref="char:EOLhyphen"/>joyed divers Liberties and Privileges, by divers Grants from Queen <hi>Elizabeth</hi> and King <hi>James.</hi>
+            </p>
+            <p>That the King was informed, that divers Inconveniences and Diſorders were committed, to the Prejudice of the Company; at the Petition of the Company, the King grants, ratifies, and confirms to the Governour and
+<pb n="4" facs="tcp:95733:3"/>
+Company of Merchants of <hi>London,</hi> trading to the <hi>Eaſt Indies,</hi>
+            </p>
+            <p>That they ſhould for ever be a Body-Politique by the Name of <hi>Guber<g ref="char:EOLhyphen"/>natoris &amp; Societatis Mercator' de London in Oriental' Indiam negoti<g ref="char:EOLhyphen"/>ant'.</hi>
+            </p>
+            <p>
+               <hi>Ac eos per Nomen Gubernatoris &amp; So<g ref="char:EOLhyphen"/>cietatis Mercator' in Oriental' In<g ref="char:EOLhyphen"/>diam negotiant' <g ref="char:V">Ʋ</g>num Corpus Cor<g ref="char:EOLhyphen"/>poral' &amp; politicum in facto &amp; nomi<g ref="char:EOLhyphen"/>ne realiter in perpetuum fecit, ordi<g ref="char:EOLhyphen"/>navit, conſtituit, ſtabilivit, &amp; de<g ref="char:EOLhyphen"/>claravit per Literas Patentes illas.</hi>
+            </p>
+            <p>With Powers to purchaſe, ſue, and be ſued by the Name of Governor and Society of Merchants of <hi>Lon<g ref="char:EOLhyphen"/>don, &amp;c.</hi>
+            </p>
+            <p>And that they, and all thoſe that then were, or ſhould be of the ſaid Company; and all their Sons at their Ages of 21 or more; and all their Apprentices, Factors, and Servants, who ſhould be im<g ref="char:EOLhyphen"/>ployed by the Company, in the ſaid Trade, to the <hi>East Indies,</hi> beyond the Seas, might traffick and uſe the Trade of Merchan<g ref="char:EOLhyphen"/>dize by Sea, by the Paſſages and
+<pb n="5" facs="tcp:95733:3"/>
+Ways diſcovered to the <hi>East-Indies.</hi>
+            </p>
+            <p>Beyond the Cape <hi>de Bona Speranza,</hi> unto the Straits of <hi>Magellan,</hi> in ſuch Order, Manner and Form, Freedom and Condition, as from time to time, at any publick Aſ<g ref="char:EOLhyphen"/>ſembly or Court, holden by or before the ſaid Governor and Company; by or betwixt them of the ſaid Company, or the greater Part of them preſent at ſuch Aſſembly or Court, ſhall be limited or agreed, and not other<g ref="char:EOLhyphen"/>wiſe; any Diverſity of Religion, notwithſtanding; ſo as the Trade be not with any Chriſtian Prince or State in League with our King, who ſhall not accept of their Commerce, but refuſe to accept the ſame.</p>
+            <p>And that the Company, their Fa<g ref="char:EOLhyphen"/>ctors, Servants, and Aſſigns in the Trade of Merchandize, ſhall for ever have the whole and ſole Trade and Traffick, and the whole Freedom, Uſe and Pri<g ref="char:EOLhyphen"/>vilege of trading and merchan<g ref="char:EOLhyphen"/>dizing, to and from the <hi>Eaſt-In<g ref="char:EOLhyphen"/>dies,</hi>
+               <pb n="6" facs="tcp:95733:4"/>
+in ſuch manner as before mentioned.</p>
+            <p>And that the <hi>East-Indies,</hi> or the Iſles and Places thereof, ſhall not be uſed or haunted by any of the King's Subjects, againſt the true Intent of the Letters Patents.</p>
+            <p>And by the ſame Letters Patents, the King commands all his Sub<g ref="char:EOLhyphen"/>jects, that none of them ſhall vi<g ref="char:EOLhyphen"/>ſit or frequent, or trade in the <hi>East-Indies,</hi> unleſs with the Li<g ref="char:EOLhyphen"/>cence and Agreement with the Company, firſt had under their common Seal.</p>
+            <p>That by Vertue of this Patent, the Plaintiffs have been, and ſtill are a Corporation, trading to the <hi>Eaſt-Indies,</hi> with the Inhabitants thereof; who, at the Time of the Letters Patents grant<g ref="char:EOLhyphen"/>ed, were not, nor yet are Chriſtians, nor Subjects of any Chriſtian Prince or State, but Infidels, Enemies, and Ad<g ref="char:EOLhyphen"/>verſaries of the Chriſtian Faith: And that their Trade hath been to the Pro<g ref="char:EOLhyphen"/>fit of the whole Kingdom, and En<g ref="char:EOLhyphen"/>creaſe of the King's Cuſtoms. That this Trade cannot be carried on but by a Company or Body Politick.</p>
+            <p>
+               <pb n="7" facs="tcp:95733:4"/>And that from the making the Let<g ref="char:EOLhyphen"/>ters Patents, they have had, and ought to have had the ſole Trade there.</p>
+            <p>That the Defendant <hi>Sands,</hi> being a Subject of the King's, but no Member of the Company, nor being Son, Fa<g ref="char:EOLhyphen"/>ctor, Apprentice, or Servant, or Aſ<g ref="char:EOLhyphen"/>ſignee after the Letters Patents <hi>(viz.)</hi> 19 <hi>Jan.</hi> 34. <hi>Car. nunc,</hi> to the <hi>Eaſt-Indies,</hi> beyond the Cape <hi>de Bona Speranza,</hi> and this Side the Straits of <hi>Magellan,</hi> in cer<g ref="char:EOLhyphen"/>tain Places called <hi>Atcheon, Mecklapaton,</hi> and <hi>Porto Novo,</hi> with a Ship called <hi>the Expectation,</hi> hath traded and merchan<g ref="char:EOLhyphen"/>dized.</p>
+            <p>And divers Wares in the ſaid Ship, to theſe Places tranſported, there bar<g ref="char:EOLhyphen"/>gained and ſold, and other Merchan<g ref="char:EOLhyphen"/>dize there bought, and into this King<g ref="char:EOLhyphen"/>dom Imported, without the Licence, and againſt the Will of the Company, <hi>in eorum praejudicium &amp; depauperationem manifeſtam,</hi> and againſt the Form of the Letters, Patents, <hi>ad damnum</hi> of the Company, 1000 <hi>l.</hi>
+            </p>
+            <p>
+               <hi>Plea.</hi> The Defendant demands Oyer of the Letters Patents, which are ſet forth <hi>in haec verba. And thereby,
+<pb n="8" facs="tcp:95733:5"/>
+after the naming the Governor, the</hi> 24. <hi>and conſtituting a general Court of Aſſem<g ref="char:EOLhyphen"/>bly, and the Powers of Elections of their Officers.</hi>
+            </p>
+            <p>That the King doth grant, as in the Declaration, ſo far as there mentioned.</p>
+            <p>But then in the Clauſe of Grant of ſole Trade, at the End thereof, they have omitted this,</p>
+            <p>And that the ſaid Governour and Company, and every particular and ſeveral Perſon that now is, or hereafter ſhall be of the Com<g ref="char:EOLhyphen"/>pany, ſhall have full and free Liberty and Licence, in form aforeſaid, to and from the ſaid <hi>East-Indies,</hi> according to the Or<g ref="char:EOLhyphen"/>ders, Ordinances and Agree<g ref="char:EOLhyphen"/>ments hereafter to be made at their publick Courts.</p>
+            <p>In the Recital of the Clauſe prohi<g ref="char:EOLhyphen"/>biting others to trade without Licence under the common Seal, they leave out a Part of that Clauſe, which is this.</p>
+            <p>Upon Pain that every ſuch Perſon that ſhall trade to or from the <hi>East-Indies,</hi> ſhall incur the Forfeiture of his Merchandize he ſhall bring into the King's Dominions, con<g ref="char:EOLhyphen"/>trary
+<pb n="9" facs="tcp:95733:5"/>
+to the Purport of this Char<g ref="char:EOLhyphen"/>ter; or which the Company ſhall find in the <hi>Eaſt-Indies,</hi> where they traffick; and alſo of the Ship wherein the Merchandizes are tranſported, one half to the King, the other to the Company, and Impriſonment of the Offender.</p>
+            <p>Then follows a Clauſe of Grant.</p>
+            <p>That the Company, for any Conſi<g ref="char:EOLhyphen"/>deration or Benefit to be taken to their own Uſe, may grant Licence to any Stranger or other, to trade to or from the <hi>Indies.</hi>
+            </p>
+            <p>Then the King grants to the Com<g ref="char:EOLhyphen"/>pany,</p>
+            <p>That the King will not, without the Conſent of the Company, give Licence to any to or from thoſe Places.</p>
+            <p>Then there is a Clauſe,</p>
+            <p>That none of the Company ſhall have a Vote in the general Aſſem<g ref="char:EOLhyphen"/>bly, unleſs he have 500 <hi>l.</hi> in the Stock.</p>
+            <p>And after Oyer, the Defendant pleads the Statute of the 5 <hi>E.</hi> 3. <hi>c.</hi> whereby 'tis enacted,</p>
+            <p>
+               <pb n="10" facs="tcp:95733:6"/>
+               <q>That the Seas ſhall be open for all Merchants to paſs with their Mer<g ref="char:EOLhyphen"/>chandizes wherever they pleaſe.</q>
+            </p>
+            <p>And that he, by Vertue thereof, did trade as in the Declaration alledged, <hi>prout ei bene licuit.</hi>
+            </p>
+            <p>
+               <hi>To this the Plaintiff hath demurr'd.</hi>
+            </p>
+            <p>Before I come to ſtate the Points and Queſtions, upon which this Queſtion truly depends; I deſire to ſhew what are not the Points or Queſtions in this Caſe.</p>
+            <p n="1">1. It is not the Queſtion, whether the King, by Law, can reſtrain any of his Subjects to go out of the Kingdom.</p>
+            <p>For the King may ſo do, and this without Diſtinction of Chriſtian or In<g ref="char:EOLhyphen"/>fidel Country, <hi>pro hic &amp; nunc,</hi> as Oc<g ref="char:EOLhyphen"/>caſion may be.</p>
+            <p n="2">2. It is not the Queſtion, whether the King can reſtrain all his Subjects to ſuch a Country or City.</p>
+            <p>It may be done upon particular Oc<g ref="char:EOLhyphen"/>caſions, as of War or Plague.</p>
+            <p>But from hence to argue, that the King can grant you and your Succeſ<g ref="char:EOLhyphen"/>ſors for ever, a ſole Trade to ſuch a Country or Place, excluding all other
+<pb n="11" facs="tcp:95733:6"/>
+his Subjects, except with your Leave or Licence: Becauſe he can reſtrain this or that Subject, therefore he can grant a ſole Trade to the Plaintiff, and exclude all others, but you, and ſuch as you, licence for ever: Becauſe he can, upon particular Occaſions, as of War or Plague, reſtrain or prohibit his Subjects to go or trade to ſuch a City or Country: That when there is nei<g ref="char:EOLhyphen"/>ther Plague nor War, the King ſhould grant a ſole Trade to any particular Perſon, whether Body Politick or Na<g ref="char:EOLhyphen"/>tural, and reſtrain all others for ever.</p>
+            <p>Can this be by the Law done?</p>
+            <p>If this Foundation will warrant it, though in this Caſe this be with Infi<g ref="char:EOLhyphen"/>dels; and upon that ground, ſome difference imagined betwixt an Infidel and a Chriſtian Country: Yet remem<g ref="char:EOLhyphen"/>ber your Reaſon or Foundation doth not diſtinguiſh or make a Difference.</p>
+            <p>For if becauſe the King hath Power to reſtrain or prohibit Subjects to go out of the Realm: Or by Occaſion of War or Plague, all his Subjects from tra<g ref="char:EOLhyphen"/>ding to ſuch a City or Country; ſince this Power (you muſt agree) extends as well to Chriſtian as Infidel City or Country;</p>
+            <p>
+               <pb n="12" facs="tcp:95733:7"/>The granting of ſole Trade to one Subject or Body Politick, and reſtrain<g ref="char:EOLhyphen"/>ing all others, is the ſame; whether it be to Chriſtian or Infidel City or Coun<g ref="char:EOLhyphen"/>try.</p>
+            <p>And when you cite the of Statute 3 <hi>Jacc.</hi> 6. which enacts,</p>
+            <p>
+               <q>That the King's Subjects ſhall free<g ref="char:EOLhyphen"/>ly trade to <hi>Spain</hi> and <hi>Portugal,</hi> not<g ref="char:EOLhyphen"/>withſtanding the Charters of Incor<g ref="char:EOLhyphen"/>poration granted to ſome Merchants, and the Prohibitions in thoſe Charters:</q>
+            </p>
+            <p>And from thence argue, that be<g ref="char:EOLhyphen"/>cauſe there were Prohibitions or Re<g ref="char:EOLhyphen"/>ſtraints by Charters, as to thoſe Coun<g ref="char:EOLhyphen"/>tries which were Chriſtian, therefore ſuch a ſole Trade to an Infidel Country is well granted:</p>
+            <p>You muſt have it admitted, that ſuch a Grant to thoſe Countries is good and legal; or elſe you argue from that which you grant not to be lawful, to prove another like Grant to be lawful. Or at leaſt by the ſame Arguments and Reaſons maintain ſuch a Grant of ſole Trade to be good, whether made to Chriſtian or Infidel Country.</p>
+            <p>If then it not being the Point or Que<g ref="char:EOLhyphen"/>ſtion in this Caſe,</p>
+            <p>
+               <pb n="13" facs="tcp:95733:7"/>Whether the King can reſtrain his Subjects from going beyond the Seas? Nor,</p>
+            <p>Whether the King can lawfully re<g ref="char:EOLhyphen"/>ſtrain his Subjects to trade to a particu<g ref="char:EOLhyphen"/>lar Country or Place, whether Chriſti<g ref="char:EOLhyphen"/>an or Infidel?</p>
+            <p>Then the Queſtions plainly and ſhort<g ref="char:EOLhyphen"/>ly are,</p>
+            <p n="1">1. Whether this Grant of ſole Trade to the Plaintiffs, be a good Grant or not?</p>
+            <p n="2">2. Suppoſing that it ſhould be, then whether this Action be maintainable or not?</p>
+            <p n="1">1. By the Common Law, Trade is free and open for the King's Subjects. And this I ſhall endeavour to ſhew from Authorities.</p>
+            <p>
+               <hi>Commercium jure Gentium commune eſſe debet &amp; non in Monopolium &amp; priva<g ref="char:EOLhyphen"/>tum paululorum queſtum convertendum.</hi>
+               <note place="margin">3 Inſt. 381.</note> 
+               <hi>Iniquum eſt, aliis permittere, aliis inhibe<g ref="char:EOLhyphen"/>here Mercaturam.</hi>
+            </p>
+            <p>The Taylers of <hi>Ipſwich</hi>'s Caſe, <q>That no Trade, Mechanick nor Merchant,<note place="margin">1 Rols Rep. 4.</note> can be hindered by the Patent of the King;</q> a Patent that only 100 Perſons ſhall uſe ſuch a Trade, is void.</p>
+            <p>
+               <pb n="14" facs="tcp:95733:8"/>
+               <note place="margin">F.N.B. 85.</note>Note, that by the common Law, every Man may go out of the Realm for Merchandize, or travel without demanding Leave of the King.</p>
+            <p>Stat. 5R. 2. <hi>c.</hi> 2. <q>Prohibited all but Great Men and Merchants to paſs out of the Realm without the King's Licence:</q> But this Statute is repealed by 14 <hi>Jac. c.</hi> 1.</p>
+            <p>
+               <note place="margin">Dyer, 165.</note>
+               <q>That every one may, at his Will, go with his Goods;</q> and cites <hi>F. N. B.</hi> for it.</p>
+            <p n="2">2. And in the next place, That ap<g ref="char:EOLhyphen"/>propriating Merchandize and Trade to a particular Perſon or Perſons, or a Bo<g ref="char:EOLhyphen"/>dy Politick, excluding others, is an in<g ref="char:EOLhyphen"/>groſſing ſuch Trade: And that all in<g ref="char:EOLhyphen"/>groſſing Trade is againſt the common Law.</p>
+            <p>
+               <note place="margin">3 Inſt. 196.</note>That ingroſſing any ſort of Mer<g ref="char:EOLhyphen"/>chandize is an Offence at common Law.</p>
+            <p>
+               <note place="margin">Dom' Rex verſ. Criſp. &amp; al.</note>In this Court lately, an Agreement betwixt divers Coprice Makers and Co<g ref="char:EOLhyphen"/>price Merchants, for the buying of all Coprice, that the Coprice Makers ſhould, for three Years, make at ſo much a Tun, and reſtraining them from ſelling to any others.</p>
+            <p>
+               <pb n="15" facs="tcp:95733:8"/>Adjudged an ingroſſing upon an In<g ref="char:EOLhyphen"/>formation in this Court.</p>
+            <p>And if a Company of Merchants ſhould buy up, in like manner, all the Merchandize of <hi>Spain</hi> or <hi>Portugal,</hi> or the <hi>Canaries,</hi> or other Town or Place for three Years to come: This I think would be an ingroſſing, and the Con<g ref="char:EOLhyphen"/>tract againſt Law.</p>
+            <p>For the Conſequence of it muſt be, that they would ſell at their own Price, and thereby exact upon the King's Sub<g ref="char:EOLhyphen"/>jects. And your Patent, for the ſole Trade to the <hi>Eaſt-Indies,</hi> inveſts you in all the Merchandizes of thoſe Countries, and ingroſſeth them all into your Hands.</p>
+            <p>And if a Patent grant to any the ingroſſing of Merchandizes; this Pa<g ref="char:EOLhyphen"/>tent is againſt Law, and void. Ingroſ<g ref="char:EOLhyphen"/>ſing is in Truth but a Species, or ano<g ref="char:EOLhyphen"/>ther Name for monopolizing; for all the Difference between them is, that ingroſſing is commonly by Agree<g ref="char:EOLhyphen"/>ments and Contracts made betwixt Subjects one with another, without the King's Grant; but Monopolies are Ingroſſings by Colour of the King's Grants.</p>
+            <p>
+               <pb n="16" facs="tcp:95733:9"/>
+               <note place="margin">3 Inſt. 181.</note>The Caſe there of <hi>John Peachy,</hi> who 50. <hi>E.</hi> 3. was ſeverely puniſhed for a Grant under the Great Seal, for the ſole ſelling of ſweet Wines in <hi>London.</hi>
+            </p>
+            <p>
+               <note place="margin">Caſe of Monop. 11 Rep. 84. Moor. 673. and in Noy.</note>This was ingroſſing by Colour of the King's Grant, and a Monopoly.</p>
+            <p>
+               <hi>Darcey</hi> had the ſole importing from beyond Seas, and ſelling of Cards, granted him by Patent for 21 Years, under a Rent, prohibiting all others to ſell; and this, <hi>Trin.</hi> 44. <hi>Eliz.</hi> adjudged a void Grant.</p>
+            <p>And the Statute, 21 <hi>Jac. c.</hi> 3. de<g ref="char:EOLhyphen"/>clares all Monopolies to be againſt the common Law. So that this being ſo; If this Grant be a Grant to you, to in<g ref="char:EOLhyphen"/>groſs or monopolize, then by the com<g ref="char:EOLhyphen"/>mon Law this Grant is void.</p>
+            <p n="3">3. That that this Grant of ſole Trade is againſt <hi>Magna Charta,</hi>
+               <note place="margin">9 H. 3. Mag. Ch. c. 30.</note> and di<g ref="char:EOLhyphen"/>vers other the ancient Statutes.</p>
+            <p>
+               <q>All Merchants (if they were not openly prohibited before) ſhall have their ſafe and ſure Conduct to depart out of <hi>England,</hi> and to come into <hi>England,</hi> to buy and ſell without any manner of evil Tolls, by the old and rightful Cuſtoms, except in Time of War.</q>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:95733:9"/>My Lord <hi>Cook</hi> ſaith,<note place="margin">2 Inſt. 57.</note> 
+               <q>That the Words in this Act <hi>[niſi publice prohi<g ref="char:EOLhyphen"/>beantur]</hi> are intended a Prohibition by the publick Council of the King<g ref="char:EOLhyphen"/>dom by Act of Parliament.</q>
+            </p>
+            <p>This Act then being general, all Mer<g ref="char:EOLhyphen"/>chants to have ſafe Conduct, to go out, and come into <hi>England,</hi> if not prohibi<g ref="char:EOLhyphen"/>ted by Act of Parliament, is probably a Declaration of the common Law.</p>
+            <p>Stat. 2 <hi>E.</hi> 3 <hi>c.</hi> 
+               <q>That all Merchants Strangers and Privy, may go and come with their Merchandizes into <hi>England,</hi> according to the Form of the Grand Charter.</q>
+            </p>
+            <p>Stat. 9 <hi>E.</hi> 3 c. 1. <q>That all Mer<g ref="char:EOLhyphen"/>chants Strangers and Denizens, and all other, and every of them, of what Eſtate ſoever they be, ſhall ſell their Merchandizes, from whenceſoever they come, freely, without Interrup<g ref="char:EOLhyphen"/>tion: Except the King's Enemies. And that this Act ſhall be obſerved and performed notwithſtanding any Char<g ref="char:EOLhyphen"/>ters to the contrary. And that Char<g ref="char:EOLhyphen"/>ters to the contrary are of no force, but are to the King's Damage, and to the Oppreſſion of the Commons.</q>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:95733:10"/>But your Charter gives you the ſole Merchandizing to and from the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>Stat. 14 <hi>E.</hi> 3. <hi>c.</hi> 2. Recites <hi>Magnae Charta,</hi> and enacts, <q>That all Mer<g ref="char:EOLhyphen"/>chants, Aliens and Denizens may, without Let, ſafely come with their Merchandizes, ſafely carry, and ſafely return.</q>
+            </p>
+            <p>Stat. 25 <hi>E.</hi> 3. c. 2. Confirms the for<g ref="char:EOLhyphen"/>mer Statute of 9 <hi>E.</hi> 3. and enacts, <q>That if any Letters Patents, Proclamation or Commandment be made to the contrary, it ſhall be void.</q>
+            </p>
+            <p>Stat. 2 <hi>R.</hi> 2. c. 1. and 11. c. 7. Both con<g ref="char:EOLhyphen"/>firm the two former Statutes, and en<g ref="char:EOLhyphen"/>act, <q>That all Letters Patents, and Commands to the contrary, ſhall be void.</q>
+            </p>
+            <p>By theſe four Statutes, the Freedom of Trade and Traffick is amply eſta<g ref="char:EOLhyphen"/>bliſh'd, and all Letters Patents, Grants, Proclamations, and commands to the contrary made void, if they had not been ſo at common Law.</p>
+            <p>
+               <note place="margin">2 Inſt. 63.</note>And my Lord <hi>Cook,</hi> upon Conſide<g ref="char:EOLhyphen"/>ration of <hi>Magna Charta,</hi> and theſe Sta<g ref="char:EOLhyphen"/>tutes, after Examination of ſeveral Grants of Tolls and Duties to be paid
+<pb n="19" facs="tcp:95733:10"/>
+upon Merchandize, ſaith, <q>That upon this Charter this Concluſion is neceſ<g ref="char:EOLhyphen"/>ſarily gathered, that all Monopolies concerning Trade and Traffick, are againſt the Liberty and Freedom de<g ref="char:EOLhyphen"/>clared and granted by this Great Charter, and divers other Acts of Par<g ref="char:EOLhyphen"/>liament, which are good Commenta<g ref="char:EOLhyphen"/>ries upon this Charter.</q>
+            </p>
+            <p>And then cites the other Statute that I have before cited.</p>
+            <p>
+               <hi>Object.</hi> But ſay they, tho we have the ſole Trade, yet we are no Mono<g ref="char:EOLhyphen"/>poly.</p>
+            <p>
+               <hi>Reſp.</hi> To prove it to be a Monopoly,<note place="margin">3 Inſt. 181.</note> let us ſee how a Monopoly is deſcribed.</p>
+            <p>My Lord <hi>Cook,</hi> in his Chapter of Monopolies deſcribes it; <hi>An Inſtitution or Allowance by the King's Grant to any Perſon or Perſons, Bodies Politick or Cor<g ref="char:EOLhyphen"/>porate, of or for the ſole buying or ſelling, or uſing of any thing, whereby any Per<g ref="char:EOLhyphen"/>ſon or Perſons are to be reſtrained of any Freedom or Liberty that they had be<g ref="char:EOLhyphen"/>fore, or are hindred in their lawful Trade.</hi>
+            </p>
+            <p>This Deſcription, I think, exactly ſuits with your Patent. For,</p>
+            <p n="1">
+               <pb n="20" facs="tcp:95733:11"/>1. By your Patent you have the ſole Trade granted to you.</p>
+            <p>Sole Trade is ſole buying and ſole ſelling: for Merchandizing conſiſts in buying and ſelling.</p>
+            <p>The ſole uſing any thing, is another general Part of this Deſcription. Is not ſole Trade, ſole uſing or merchan<g ref="char:EOLhyphen"/>dizing?</p>
+            <p>And for the latter Part of it, where<g ref="char:EOLhyphen"/>by any Perſon is reſtrained or hindred in his Liberty,</p>
+            <p n="2">2. Your Patent grants to you to ſeize the Ships and Goods of any that come thither.</p>
+            <p>And your bringing this Action, ſhews you are ſufficiently a Hinderer of the Liberty of others to trade.</p>
+            <p>So that I think you can't deny but that you are comprehended under this Deſcription.</p>
+            <p>But for further Evidence of its being a Monopoly, let us ſee what the Evils and Miſchiefs are that were in Mono<g ref="char:EOLhyphen"/>polies which the Law ſpeaks ſo hard of.</p>
+            <p>The Evils and Miſchiefs are:</p>
+            <p>Firſt, That the Price of the Com<g ref="char:EOLhyphen"/>modity they ſell, ſhall be kept and
+<pb n="21" facs="tcp:95733:11"/>
+riſen higher than otherwiſe it would be.</p>
+            <p>For, he that hath the ſole Trade, will keep up the Price as he pleaſeth. And this is one of the Evils mentioned in the Caſe of Monopolies, 11 <hi>Rep.</hi> 86. <hi>b.</hi>
+            </p>
+            <p>The Truth hereof I think is evident enough, and no Man in Reaſon thinks but he that hath the ſole Trade, trades for his Advantage: And the higheſt and deareſt Rates he can ſell at, and the cheapeſt he can buy at, are his Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>Secondly, A ſecond Miſchief or Evil is, that Monopolies or ſole Trade is <hi>pro privato paululorum quaeſtu.</hi> So it is ſaid to be in the Margent of the Book before cited, 3 <hi>Inſt.</hi> 181.</p>
+            <p>No Man will doubt hereof, that conſiders the preſent State or Conditi<g ref="char:EOLhyphen"/>on of this Company.</p>
+            <p>Thirdly, Another Evil or Miſchief of Monopolies or ſole Trade, is the Impoveriſhment and Oppreſſion of the King's Subjects.</p>
+            <p>Trade is not in its own Nature fix'd and ſtable, but varying and altering, ſometimes better, ſometimes worſe. Sometimes one Trade beneficial, ano<g ref="char:EOLhyphen"/>ther
+<pb n="22" facs="tcp:95733:12"/>
+not; according as Wares, Sick<g ref="char:EOLhyphen"/>neſſes, Scarſity of this or that ſort of Commodity or Merchandize in this or that Country; Modes, Faſhions, Cu<g ref="char:EOLhyphen"/>ſtoms and Habits of Men do occaſion.</p>
+            <p>And the Merchants, by their Edu<g ref="char:EOLhyphen"/>cation and Obſervation, manage and govern this Trade, for the Mainte<g ref="char:EOLhyphen"/>nance of themſelves and their Families, and the general Good of Men. And direct and imploy their Eſtates, and traffick into this or that Part of the World, as Time and Occaſion ſhall give them beſt Encouragement.</p>
+            <p>But ſole Trade into this or that Part of the World, granted to one Compa<g ref="char:EOLhyphen"/>ny, and of another to another, ſets up the particular Men that head the Companies, but deſtroys all other Mer<g ref="char:EOLhyphen"/>chants and inferior People.</p>
+            <p>Such Patents muſt undo all other Parts of this Kingdom beſides <hi>London.</hi> For, the Companies can't drive theſe great Trades, but muſt manage them in <hi>London,</hi> and conſequently, the other Parts of the Kingdom, muſt be exclu<g ref="char:EOLhyphen"/>ded. All ſhipping muſt be ſubject<g ref="char:EOLhyphen"/>ed to the Rates and Prizes theſe Ap<g ref="char:EOLhyphen"/>propriators of Trade will give them;
+<pb n="23" facs="tcp:95733:12"/>
+or elſe lye ſtill and be deſtroyed. And ſo muſt all Maſters of Ships, Mari<g ref="char:EOLhyphen"/>ners; all Artificers, Labourers, Fa<g ref="char:EOLhyphen"/>ctors, and Servants, whoſe Employ<g ref="char:EOLhyphen"/>ments depend upon theſe Trades, muſt all be ſubjected to their Wills.</p>
+            <p>And of how great Conſequence that may be, deſerves Conſideration.</p>
+            <p>The Inſtances of your Oppreſſions and Dealings with your Factors, Cap<g ref="char:EOLhyphen"/>tains, Servants, and Seamen that got any thing in their Service, are well known.</p>
+            <p>So that if the Evils and Miſchiefs which the Common Law forbids and endeavours to prevent, by judging all Monopolies, Ingroſſings, and ſole Trade unlawful, be to be avoided; The Evils and Miſchiefs attending your Patent and ſole Trade, are per<g ref="char:EOLhyphen"/>haps the greateſt, becauſe your ſole Trade is the greateſt that ever <hi>England</hi> knew.</p>
+            <p>That every Grant of the King hath this Condition implied in it, <hi>viz.</hi>
+               <note place="margin">F. N. Br. 222.</note> 
+               <hi>Quod Patria per talem donationem magis ſolito non oneretur ſeu gravetur.</hi>
+            </p>
+            <p>
+               <hi>Grant le Roy al charge ou prejudice del Subject est void.</hi>
+               <note place="margin">13 H. 4. 14.</note>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:95733:13"/>And if the Evils and Miſchiefs of this Grant be as I have ſtated them; 'Tis a Grant to the Oppreſſion and Prejudice of the Subject: And therefore the King is deceived in it, and the Grant by the common Law void, as I have before ſhewn.</p>
+            <p>
+               <hi>Object.</hi> But perhaps it may be ob<g ref="char:EOLhyphen"/>jected, that this Patent is granted for good Government and Order, and Pre<g ref="char:EOLhyphen"/>ſervation of this Trade, which will otherwiſe be deſtroyed, and for the Good of the Kingdom: And there have been in all Times ſuch Patents, as to <hi>Turky, Barbary, Guiny,</hi> and others.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Remember what our Books ſay.</p>
+            <p>
+               <note place="margin">2 Inſt. 540.</note>That new Corporations, trading to foreign Countries, under the fair Pre<g ref="char:EOLhyphen"/>tence of Order and Government, in Concluſion, tend to the Hindrance of Trade and Traffick, and in the End, prove Monopolies.</p>
+            <p>
+               <note place="margin">11 Rep. 28. b.</note>In the End of the Caſe of Monopolies. <hi>Privilegia quae revera ſunt in praejudicium Reipublicae, magis tamen ſpecioſa habent Frontiſpicia &amp; boni publici praetextum, quam bonae &amp; legales conceſſiones.</hi> But <hi>prae<g ref="char:EOLhyphen"/>textu liciti non debet admitti illicitum.</hi> The Words of that Book.</p>
+            <p>
+               <pb n="25" facs="tcp:95733:13"/>And there alſo it appears, and is ta<g ref="char:EOLhyphen"/>ken notice of, that <hi>Darcie</hi>'s Patent had a glorious Preamble, <hi>viz.</hi>
+            </p>
+            <p>That the Subjects might exerciſe their Husbandry and lawful Imploy<g ref="char:EOLhyphen"/>ments, and not be corrupted to Idleneſs by the wicked thing called Cards, the ſole Sale and Trade of Cards is granted to <hi>Darcey.</hi>
+            </p>
+            <p>Obſerve, ſays the Book, what a glo<g ref="char:EOLhyphen"/>rious Preamble and Pretext this odious Monopoly had.</p>
+            <p>That Patent which (made 3 Years after this,<note place="margin">Horn and Ivy, Mich. 20. B. 2. c. 403.</note> and dated 17 of <hi>March,</hi> 17 <hi>Car.</hi> 2. in Imitation of this) erected the <hi>Canary</hi> Company, and granted them the ſole Trade, Recites, That the Trade to the <hi>Ca<g ref="char:EOLhyphen"/>naries,</hi> was of greater Advantage to the King's Subjects formerly, than at that Time: That by reaſon the too much Acceſs and Trading of Subjects thither, our Merchandizes were decreaſed in their Value, and the Wines increaſed to double Value; ſo that the King's Sub<g ref="char:EOLhyphen"/>jects were forced to carry Silver and Bullion there to get Wines.</p>
+            <p>And that all this happened for want of Regulation of Trade.</p>
+            <p>
+               <pb n="26" facs="tcp:95733:14"/>And thereupon the Patent conſtituted Sir <hi>Arthur Ingram,</hi> and about 60. Per<g ref="char:EOLhyphen"/>ſons more by Name, and all others of the King's Subjects, Merchants or Fa<g ref="char:EOLhyphen"/>ctors, trading, or that had within ſe<g ref="char:EOLhyphen"/>ven Years, traded to thoſe Iſlands, to the Value of 1000 <hi>l. per Annum,</hi> and all others that after ſhould be admitted ſhould be a Body Politick.</p>
+            <p>That there ſhould be a Governor, a Deputy Governor, 12. Aſſiſtants, and names them; but to be continued by Election.</p>
+            <p>That they ſhould have the ſole Trade to theſe Iſlands. And that none other ſhould haunt or viſit thoſe Iſlands, un<g ref="char:EOLhyphen"/>der Pain of Forfeiture and Impriſon<g ref="char:EOLhyphen"/>ment: With <hi>non obſtante</hi> to the Statute of Monopolies.</p>
+            <p>Judgment was given againſt this Patent.</p>
+            <p>Here is in this Caſe, the ſame Pre<g ref="char:EOLhyphen"/>tence and Preamble, as in yours. The Abuſe of the Trade, and the Regulati<g ref="char:EOLhyphen"/>on of it, for the general good was the thing pretended, but few Men doubt what was intended.</p>
+            <p>Under the Name of Regulation and Government, to ingroſs all into the
+<pb n="27" facs="tcp:95733:14"/>
+Hands of 10 or 12 Men, is moſt ex<g ref="char:EOLhyphen"/>cellent Regulation and Government.</p>
+            <p>
+               <hi>Reſp.</hi> 2. And as to other Companies and Charters that have been granted.</p>
+            <p>Suppoſing that all theſe Grants were ſuch as this, and practiſed and uſed as this; yet 'tis no Argument that they were legal or good Grants.</p>
+            <p>Have not there been in all Ages and Times, Patents and Grants, ſuch as by Law were void and of no Force? If it be ſo; it is no Argument that becauſe there have been many ſuch Grants, therefore this is good.</p>
+            <p>But to keep my ſelf to Monopolies.</p>
+            <p>Monopolies have been frequently in all Times granted; even in the beſt of Times; many by Queen <hi>Elizabeth. Darcy</hi>'s was granted by her. In the Recital of it appears, that there had been granted before it, divers others of that Monopoly of ſole ſelling and making Cards.</p>
+            <p>But when it came in Queſtion, it was condemned.</p>
+            <p>Stat. 9 <hi>E.</hi> 3. <hi>c.</hi> 1. And the other Sta<g ref="char:EOLhyphen"/>tutes before cited. The Clauſes that ſay that all Patents granted or to be granted, contrary to the Freedom of
+<pb n="28" facs="tcp:95733:15"/>
+Trade in theſe Statutes mentioned, Prove,</p>
+            <p n="1">1. That ſuch Patents had been.</p>
+            <p n="2">2. That they did foreſee and pro<g ref="char:EOLhyphen"/>vide againſt thoſe that would be.</p>
+            <p>43 <hi>Eliz. c.</hi> 1. <hi>Sect.</hi> 9. That Proviſo ſhews that there were Monopolies granted; but yet ſo far from receiving any Allowance, that that Statute made in the End of her Reign, for confirm<g ref="char:EOLhyphen"/>ing her Patents, by ſpecial Proviſo, ex<g ref="char:EOLhyphen"/>cepts and provides,</p>
+            <p>That that Statute ſhall not extend to make good any Letters Patents made or granted, of and concerning Licences, Powers, or Privileges, commonly cal<g ref="char:EOLhyphen"/>led Monopolies.</p>
+            <p>The Statute of Monopolies, and this Statute, ſufficiently ſhew that there were ſuch Grants, and that they were not allowed. This therefore is no Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>But on the contrary, it hath not, nor cannot be ſhewn (as I believe) that ever any had any Judicial Allow<g ref="char:EOLhyphen"/>ance in any Times paſt for any ſole Trade, or ſole buying or ſelling, which is a great Argument to the contra<g ref="char:EOLhyphen"/>ry. And further,</p>
+            <p>
+               <pb n="29" facs="tcp:95733:15"/>The Practice of theſe Companies hath been generally to the contrary; and till within theſe late Years, no ſole Trade practiced amongſt them.</p>
+            <p>This and the Charters to the Com<g ref="char:EOLhyphen"/>panies of <hi>Turkey,</hi> and the reſt perhaps are in this particular alike <hi>(viz.)</hi> that there is in Words granted to them the ſole Trade: But the Uſe and Manage<g ref="char:EOLhyphen"/>ment of theſe Charters vaſtly differ.</p>
+            <p>For the great Companies, <hi>Turkey, Muſcovy, Ruſſia,</hi> and <hi>Hamborough</hi> Com<g ref="char:EOLhyphen"/>panies, they trade not by any joynt Stock, but the Members of each Compa<g ref="char:EOLhyphen"/>ny, every Man uſes his own Trade, buys and ſells his own Commodities, hath his own Servants, Factors, and Imployers.</p>
+            <p>They take care, by ſending out Con<g ref="char:EOLhyphen"/>ſuls and Agents, to preſerve the Trade; and by ſmall Impoſts, maintain ſuch Conſuls and Agents.</p>
+            <p>They take care that the Market be not overſtock'd or glutted with Com<g ref="char:EOLhyphen"/>modities they ſend out; and therefore only order what Ships ſhall go, but leave to every one of the Company to ſend his Merchandize at his own Will and Pleaſure.</p>
+            <p>
+               <pb n="30" facs="tcp:95733:16"/>They trade not upon any Joynt Stock, or the Stock of the Body-Poli<g ref="char:EOLhyphen"/>tick. If you deal with any of them, you know your Chapman: No Man is refuſed to be free of their Companies that hath a mind, paying ſome ſmall Sum for his Freedom.</p>
+            <p>But this Company of the <hi>East-Indies,</hi> are of quite another Nature, and uſe their Patent to quite another End.</p>
+            <p>The <hi>Eaſt-India</hi> Company trade only upon the Company's Stock; every Man, whether Merchant or not, if he can buy ſuch a Share in their Stock, is of their Company.</p>
+            <p>The Committee manage, and the reſt muſt ſubmit to their Pleaſures and Diſtributions: Thoſe few of them that have the moſt Shares, have the Diſpo<g ref="char:EOLhyphen"/>ſal of the whole Stock: No Member trades, buys or ſells, or hath any thing that he calls his own, but only ſuch a Share in the Stock: No Member of theirs either buys or ſells his own Mer<g ref="char:EOLhyphen"/>chandize, or imploys any Factors or Servants. The Body Politick, the in<g ref="char:EOLhyphen"/>viſible Corporation trade, perhaps for 1000000 <hi>l. per annum.</hi> They get into their Hands, and ſell perhaps 7. or
+<pb n="31" facs="tcp:95733:16"/>
+800000 <hi>l.</hi> worth of Merchandize at a time: The three laſt Sales that they made, came to 1800000 <hi>l.</hi> No body hath theſe Commodities but they.</p>
+            <p>Is this trading, and no ingroſſing or no monopolizing? 'Tis their wonderful Vertue, their Hatred and Contempt of Riches that makes them not to raiſe and encreaſe Values and Prizes, and be as rich as they pleaſe, if they do not do it. No Man is admitted to come into their Company by their Patent to have a Vote, unleſs he have 500 <hi>l.</hi> in their Stock, which values above 1500 <hi>l.</hi> to be bought: So that by the very Foundation, they can have no more Perſons in their Com<g ref="char:EOLhyphen"/>pany, than they have 500 <hi>l.</hi> Shares, and thoſe Shares being ingroſſed into few Hands, the few Hands have all, and call themſelves the Company.</p>
+            <p>So that Men that will not be deceived by Words, but diſtinguiſh things diffe<g ref="char:EOLhyphen"/>rent one from the other, will diſtinguiſh betwixt one Company and Society, and another, who are Ingroſſers and Mo<g ref="char:EOLhyphen"/>nopolizers, and who not.</p>
+            <p>The <hi>Turkey</hi> Company, and the reſt like it, may truly be ſaid to be Mana<g ref="char:EOLhyphen"/>gers, Regulaters, and Improvers of
+<pb n="32" facs="tcp:95733:17"/>
+Trade. They have no joynt Stock that they trade upon; they ingroſs not; they admit every Man that will, to be free of their Companies, to trade with his own Mony, his own Credit, and buy and ſell his own, and to im<g ref="char:EOLhyphen"/>ploy whom he pleaſeth, and none amongſt them, under Pretence of Go<g ref="char:EOLhyphen"/>vernment, Regulation and Preſervati<g ref="char:EOLhyphen"/>on of Trade, makes unreaſonable Ad<g ref="char:EOLhyphen"/>vantages.</p>
+            <p>But the inviſible <hi>Eaſt-India</hi> Mer<g ref="char:EOLhyphen"/>chant, the Body Politick covers and countenances ſome few Men amongſt them, to engroſs, buy and ſell at their own Rates, and excludes all others from the great and exceſſive Advantage of the few.</p>
+            <p>The other Companies, as the <hi>Tur<g ref="char:EOLhyphen"/>key,</hi> &amp;c. have not any ſole buying or ſelling; nor exerciſing any ſole Trade or ingroſſing. Every Member of theſe Companies, which are a Multitude, and every one that is not, may, if he will, be a Member; no Man is ex<g ref="char:EOLhyphen"/>cluded.</p>
+            <p>But this Company quite contrary; and therefore if ever any was, theſe are great Engroſſers and Monopolizers of Trade.</p>
+            <p>
+               <pb n="33" facs="tcp:95733:17"/>I do not argue or ſpeak againſt Companies, nor regulating or manag<g ref="char:EOLhyphen"/>ing Trade (which was the true intent of this Patent) ſuch as I have mention<g ref="char:EOLhyphen"/>ed, and is vertuouſly and commenda<g ref="char:EOLhyphen"/>bly practiſed in the great Companies of <hi>Turky, Muſcovy, Hamborough</hi> and others, where the Members of the Company trade upon their own parti<g ref="char:EOLhyphen"/>cular Stocks and Eſtates, and no Mer<g ref="char:EOLhyphen"/>chant hindred or denied to be a Mem<g ref="char:EOLhyphen"/>ber, that deſires it, paying his ordina<g ref="char:EOLhyphen"/>ry Fees of Admiſſion.</p>
+            <p>But againſt the Inviſible Merchant, this politick Capacity trading in joynt Stocks.</p>
+            <p>Suppoſe a like Patent to any one, or two or three Men, Farmers or Partners, in their private Capacity, of this ſole Trade, and they had the Management of it, and thereby Poſſeſſors of ſuch vaſt Wealth and Merchandize.</p>
+            <p>What would this politick Body (I mean the principal Members; for the Body can't think or have Senſe) judge of it?</p>
+            <p>Perhaps yours is much worſe, there a Man ſhould know with whom he dealt, who were his Debtors, and how
+<pb n="34" facs="tcp:95733:18"/>
+to come to them; but dealing with you is a kind of dealing with Spirits, an Inviſible Body ſubſiſting only <hi>in in<g ref="char:EOLhyphen"/>telligentia legis.</hi>
+            </p>
+            <p>Therefore being ſo unlike the other Companies, and ſo contrary to them, you ought to have no Countenance from them; and though they are good and commendable, you are Ingroſſers and Monopolizers.</p>
+            <p n="3">3. But to proceed and conſider the Statutes made againſt Monopolies.</p>
+            <p>Stat. 21 <hi>Jac. c.</hi> 3. By which 'tis en<g ref="char:EOLhyphen"/>acted, <q>That all Monopolies, Com<g ref="char:EOLhyphen"/>miſſions, Charters, and Letters Pa<g ref="char:EOLhyphen"/>tents, granted, or to be granted to any Perſon or Perſons, Bodies politick or corporate, of or for the ſole buy<g ref="char:EOLhyphen"/>ing or ſelling, or uſing any thing with<g ref="char:EOLhyphen"/>in this Realm.</q>
+            </p>
+            <p>
+               <q>And all Proclamations, Inhibitions, and Reſtraints, and all other matters and things, any way tending to the inſtituting, erecting, furthering or countenancing the ſame, are contrary to the Laws of this Realm, and ſhall be utterly void and of none effect.</q>
+            </p>
+            <p>
+               <q>And that all Perſons, Bodies politick and corporate, which now are, or
+<pb n="35" facs="tcp:95733:18"/>
+hereafter ſhall be, ſhall ſtand and be un<g ref="char:EOLhyphen"/>capable to have, uſe, exerciſe, and put in uſe any Monopoly, or any ſuch Commiſſion, Charter, Letters Patents, Inhibitions, and Reſtraints; or any Liberty, Power, or Faculty granted upon them.</q>
+            </p>
+            <p>Then follow Clauſes of Forfeiture of treble Damages to the Party grieved by the uſing any ſuch Monopoly.</p>
+            <p>Then the Proviſoes for new Inventi<g ref="char:EOLhyphen"/>ons, and ſeveral other things</p>
+            <p>Then the Proviſo concer<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng Cor<g ref="char:EOLhyphen"/>porations, which, as to this Caſe, is thus;</p>
+            <p>
+               <q>Provided alſo, and be it enacted, that this Act ſhall not extend, or be prejudicial to the City of <hi>London,</hi> or other City or Towns corporate, for or concerning any Charters granted to them, or any Cuſtoms uſed within them.</q>
+            </p>
+            <p>
+               <q>Or unto any Corporations, Com<g ref="char:EOLhyphen"/>panies, or Fellowſhips of any Art, Trade, Occupation, or Myſtery.</q>
+            </p>
+            <p>
+               <q>Or to any Companies or Societies of Merchants erected for the Mainte<g ref="char:EOLhyphen"/>nance, Enlargement, or Ordering of any Trade or Merchandize.</q>
+            </p>
+            <p>
+               <pb n="36" facs="tcp:95733:19"/>
+               <q>But that the ſame Charters, Corpo<g ref="char:EOLhyphen"/>rations, Companies, Fellowſhips, and Societies; and their Liberties, Pri<g ref="char:EOLhyphen"/>vileges, Powers, and Immunities, ſhall be and continue of like Force and Effect as they were before the making of this Act, and of none other; any thing in this Act to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</q>
+            </p>
+            <p>The next Proviſo extends to Patents, granted or to be granted for Printing, making Salt Peter, Offices, <hi>&amp;c.</hi> which do not concern the Caſe in Queſtion.</p>
+            <p>By the Deſcription of a Monopoly, which I have before, out of my <hi>Lord Cook,</hi> ſtated and expreſſed; This ſole Trade granted to you, and the Exclu<g ref="char:EOLhyphen"/>ſion of all others, is a Monopoly with<g ref="char:EOLhyphen"/>in that Deſcription, as I have before ſhewn.</p>
+            <p>That your Charter is directly con<g ref="char:EOLhyphen"/>trary to the enacting Clauſe of this Act. For you have by your Charter granted,</p>
+            <p>Sole buying.</p>
+            <p>For all others are prohibited as much as to come or go into the <hi>East-Indies.</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:95733:19"/>Sole ſelling.</p>
+            <p>All others are prohibited to import into this Realm; and they can't ſell here unleſs they can import.</p>
+            <p>Sole uſing.</p>
+            <p>For you have granted to you the ſole Trade, which includes all buying, ſelling, ſole uſing. That appropriates all to your ſelves, and excludes all others.</p>
+            <p>How can your Letters Patents and this Statute ſtand together?</p>
+            <p>When the Statute ſaith, <q>That all Letters Patents, granted to any Bo<g ref="char:EOLhyphen"/>dy politick, of or for the ſole buying, ſelling, or uſing any thing, ſhall be void;</q>
+            </p>
+            <p>How can yours be good?</p>
+            <p>When the Statute ſaith, <q>That all Inhibitions, Reſtraints, and other things any way tending to the inſti<g ref="char:EOLhyphen"/>tuting, erecting, furthering, or coun<g ref="char:EOLhyphen"/>tenancing any ſuch ſole buying, ſel<g ref="char:EOLhyphen"/>ling, or trading, ſhall be void;</q>
+            </p>
+            <p>How can yours be good?</p>
+            <p>When the Statute ſaith, <q>That all Bodies politick and corporate ſhall hereafter ſtand and be incapable of ha<g ref="char:EOLhyphen"/>ving, uſing, exerciſing, or putting
+<pb n="38" facs="tcp:95733:20"/>
+in ure any ſuch Charter, Inhibition, or Reſtraint;</q>
+            </p>
+            <p>How then can the Plaintiff, in this Caſe do it?</p>
+            <p>
+               <note place="margin">3 Inſt. 182.</note>In the Comment upon this Statute, 'tis there ſaid, that this Act is forcibly and vehemently penn'd for the Suppreſ<g ref="char:EOLhyphen"/>ſion of all Monopolies.</p>
+            <p>And the Words <hi>[Sole uſing]</hi> is there ſaid to be ſo general, as no Mo<g ref="char:EOLhyphen"/>nopoly can be raiſed, but will be with<g ref="char:EOLhyphen"/>in the Reach of this Statute.</p>
+            <p>The Word <hi>[any thing<g ref="char:punc">▪</g>]</hi> ſhews alſo the general Scope and Intent, that no<g ref="char:EOLhyphen"/>thing ſhould be excluded that was a Monopoly.</p>
+            <p>
+               <hi>Object.</hi> But the Proviſo excepts Charters to Companies or Societies of Merchants, erected for the Mainte<g ref="char:EOLhyphen"/>nance, Enlargement, or Ordering of any Trade or Merchandize.</p>
+            <p>
+               <hi>Reſp.</hi> 1. This Proviſo extends not to this Charter, or any Letters Patents granted after the making of that Act. And this appears from the penning of the Proviſo.</p>
+            <p>The enacting Clauſe ſaith, <q>That all Letters Patents, granted or to be granted for ſole buying any thing, ſhall be void.</q>
+            </p>
+            <p>
+               <pb n="39" facs="tcp:95733:20"/>The Proviſo ſaith,</p>
+            <p>
+               <q>That this Act ſhall not extend to, or be prejudicial to Towns Corporate concerning any Charters granted to them, or Cuſtoms uſed by them.</q>
+            </p>
+            <p>
+               <q>Or to any Companies or Societies of Merchants, erected for the Main<g ref="char:EOLhyphen"/>tenance, Enlargement, or Ordering of any Trade or Merchandize.</q>
+            </p>
+            <p>This extends to thoſe that were granted and erected. Here is no Words of ſalving for any that ſhould be here<g ref="char:EOLhyphen"/>after granted or erected: the Words <hi>[hereafter to be granted,]</hi> would have been in this Clauſe of ſalving, as well as in the enacting Clauſe, if ever ſo intended. But the following Words concluding this Proviſo, further ſhew it,</p>
+            <p>
+               <q>That the Charters, Corporations, Companies, Fellowſhips, and Socie<g ref="char:EOLhyphen"/>ties, and their Liberties, Privileges, Powers, and Immunities ſhall be and continue as they were before the making of this Act.</q>
+            </p>
+            <p>This governs and concludes the whole Proviſo, and extends only to thoſe that then were, to leave them as they were. That is,</p>
+            <p>
+               <pb n="40" facs="tcp:95733:21"/>To leave the Charters and Compa<g ref="char:EOLhyphen"/>nies, their Powers and Privileges in the ſame State and Condition as they were before this Act.</p>
+            <p>The Beginning of the Proviſo ſaith, this Act ſhall not prejudice them; the Concluſion ſaith, they ſhall be as they were before this Act was made.</p>
+            <p>Therefore thoſe that were excepted<g ref="char:punc">▪</g> muſt have a Being before this Act: No Words therein extend to thoſe that then had not a Being.</p>
+            <p>The next Proviſo for Printing, Salt-Peter, Offices, <hi>&amp;c.</hi> expreſly provides for Patents granted or to be granted.</p>
+            <p>This (if ſo intended) would no doubt in like manner have been penn'd.</p>
+            <p>
+               <hi>Reſp.</hi> 2. But ſuppoſe it ſhould be conſtrued to extend to Companies, Privileges, and Immunities erected and granted after this Act.</p>
+            <p>Yet you are not within this ſaving.</p>
+            <p n="1">1. For it extends only to Companies and Societies erected for the Mainte<g ref="char:EOLhyphen"/>nance, Enlargement or ordering of Trade or Merchandize, and to their Powers and Privileges that they have for that End.</p>
+            <p>
+               <pb n="41" facs="tcp:95733:21"/>Not to Companies and Societies erected to have a ſole Trade by a joynt Stock, or a Stock of the Corporation, excluding all others.</p>
+            <p>The <hi>Turky</hi> Company, <hi>Ruſſia</hi> and <hi>Hamborough,</hi> and other Companies, that trade not as Bodies politick, or upon joynt Stocks, but every Mer<g ref="char:EOLhyphen"/>chant that will, may be thereof a Member, and every Member thereof trade upon his own private Stock and Account of a Merchant.</p>
+            <p>The Companies only order and con<g ref="char:EOLhyphen"/>ſult for Maintenance and Preſervation of it, and not for the ingroſſing and couſening their Members of it.</p>
+            <p>Theſe are the Corporations that are within this Exception and Proviſo.</p>
+            <p>But we muſt be as ſilly as the Infi<g ref="char:EOLhyphen"/>dels you deal with in theſe Matters, not to diſtinguiſh betwixt theſe Corpo<g ref="char:EOLhyphen"/>rations and their Management, and yours.</p>
+            <p>They exclude none from Trade; they trade not in a publick Capacity, in a ſole Stock, but every Member is a Trader upon his own peculiar Stock.</p>
+            <p>
+               <pb n="42" facs="tcp:95733:22"/>But you take upon you in your po<g ref="char:EOLhyphen"/>litick Capacity, as you have expreſſed in your Declaration.</p>
+            <p>
+               <hi>Totum integrum &amp; ſolum Commercium &amp; negotiationem habere uti &amp; gaudere.</hi>
+            </p>
+            <p>And to exclude, not only all Stran<g ref="char:EOLhyphen"/>gers, but all your own Members to have any diſtinct or ſeparate Trade upon their own account (except a little to excuſe you to pay off Charges) and thereby ingroſs all that vaſt Quantity of Merchandize.</p>
+            <p>The many 100000 <hi>l.</hi> worth you bring in and carry out: In whom is the Property?</p>
+            <p>In the Corporation.</p>
+            <p>Who buys and ſells all?</p>
+            <p>The Corporation.</p>
+            <p>Who are the Debtors for the Mony, that buys and provides theſe Merchan<g ref="char:EOLhyphen"/>dizes?</p>
+            <p>The Body Politick, the Corporati<g ref="char:EOLhyphen"/>on, the inviſible Body.</p>
+            <p>Who ſhall be ſued for theſe Debts?</p>
+            <p>The Body Politick.</p>
+            <p>Sue them as you can, they will ei<g ref="char:EOLhyphen"/>ther be too rich and great to contend with, or elſe in that Condition as you know not how or where to have them;
+<pb n="43" facs="tcp:95733:22"/>
+they are an inviſible Body, ſubſiſting only <hi>in intelligentia legis,</hi> a Body Poli<g ref="char:EOLhyphen"/>tick, without Soul or Conſcience, as the Law ſays it to be.</p>
+            <p>We have ſeen them in a Years time in both theſe Qualifications; ſo great as ſcarce any Man will contend with them; ſo inviſible at another time, as a Dun could ſcarce find them.</p>
+            <p>This ſurely can't be for the Mainte<g ref="char:EOLhyphen"/>nance or Enlargement of Trade, to deal with I know not whom, where no Se<g ref="char:EOLhyphen"/>curity or perſon is ſubject.</p>
+            <p>It is indeed for the Maintenance of the Company's Trade, to enable ſome of them to get 10 or 20000 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> by it, and to keep this vaſt Trade in a few Hands.</p>
+            <p>But ſure this is not the Trade the Proviſo intends.</p>
+            <p>Reſtraining to the Body Politick, which is but one Perſon or Man in Partnerſhip, is quite contrary to the Enlargement in the Proviſo mention<g ref="char:EOLhyphen"/>ed.</p>
+            <p>And therefore, to ſay that you are within the ſaving, by this Proviſo; a Company erected for the Maintenance and Enlargement of Trade, when you
+<pb n="44" facs="tcp:95733:23"/>
+reſtrain all but your ſelves to trade, ſeems to be a Contradiction.</p>
+            <p>And for the following Words in the Proviſo,</p>
+            <p>
+               <hi>[Or ordering of any Trade or Merchan<g ref="char:EOLhyphen"/>dize,]</hi>
+            </p>
+            <p>If you ſay you are ſaved within the Extent of theſe Words, then muſt you make a Conſtruction of theſe Words in this Senſe.</p>
+            <p>That ordering Trade and Merchan<g ref="char:EOLhyphen"/>dize is excluding all others, and taking the whole to your ſelves.</p>
+            <p>A moſt excellent ordering indeed.</p>
+            <p>But the true Senſe of theſe Words in this Proviſo, is to ſave the Corporati<g ref="char:EOLhyphen"/>ons and Fellowſhips of Arts, Trades, Occupations, and Myſteries, and to Companies of Merchants, the Powers and Authorities that they had for the Maintenance, Enlargement, or order<g ref="char:EOLhyphen"/>ing of Trade.</p>
+            <p>By taking care that the Commodi<g ref="char:EOLhyphen"/>ties were honeſtly and rightly made, without Fraud or Deceit in their Mea<g ref="char:EOLhyphen"/>ſures or Quantities.</p>
+            <p>That the Servants and younger ſort were honeſt, and induſtriouſly educa<g ref="char:EOLhyphen"/>ted in their Trades and Myſteries, by the Maſters and elder ſort.</p>
+            <p>
+               <pb n="45" facs="tcp:95733:23"/>To place and keep good Order and Decorum amongſt thoſe of the ſame Myſtery and Trade.</p>
+            <p>For aſſembling and conſulting for the common Good, and Management of their reſpective Trades and Imploy<g ref="char:EOLhyphen"/>ments.</p>
+            <p>This is that which the Proviſo ex<g ref="char:EOLhyphen"/>cepts and provides for.</p>
+            <p>Not for a ſole Trade in a Company, in a joynt Stock, excluding all others as this is.</p>
+            <p>The Company there made a By-Law,<note place="margin">Taylors of <hi>Ipſwich</hi> Caſe, 11 Rep. 54.</note> to exclude Taylors from uſing their Trades within that Town, unleſs by the Maſters and Wardens of the Company, or three of them admitted to be a ſufficient Workman.</p>
+            <p>In this Caſe here ſeemed to be a good End and Meaning, to exclude in<g ref="char:EOLhyphen"/>ſufficient Workmen, and encourage good Workmen; a good Order one might think.</p>
+            <p>Yet ſo jealous and careful they then were, leſt, under any Pretence they ſhould exclude Men from their law<g ref="char:EOLhyphen"/>ful Trades that they adjudged this a void By-Law, as tending to reſtrain Men of their Freedom in uſing their
+<pb n="46" facs="tcp:95733:24"/>
+Trades, and introducing Oppreſſion of the young Tradeſmen, by the old and rich Tradeſmen.</p>
+            <p>And in that Caſe adjudged,</p>
+            <p>That Ordinances for the good Order and Government of Men of Trades and Myſteries are good, but not to reſtrain Men in their lawful Myſtery.</p>
+            <p>To the ſame purpoſe is <hi>Norris</hi> and <hi>Stop</hi>'s Caſe, <hi>Hob.</hi> 211.</p>
+            <p>So that this being the Senſe of this Proviſo, to except Powers and Autho<g ref="char:EOLhyphen"/>rities that Companies have to regulate Trade, for the Maintenance and En<g ref="char:EOLhyphen"/>largement of it, but not to reſtrain any from their Trades or lawful Myſteries, it extends not to ſalve or preſerve ſuch Authority or Power in you to have a ſole Trade, excluding all others.</p>
+            <p n="2">2. For another reaſon, it cannot be the Senſe of this Proviſo, to except or ſave to any Body Politick, the buying in their publick Capacity, a ſole Trade.</p>
+            <p>The Proviſo then will be repugnant and contradictory to the enacting Clau<g ref="char:EOLhyphen"/>ſes. For taking the Proviſo as they would have it;</p>
+            <p>
+               <pb n="47" facs="tcp:95733:24"/>To ſave to Bodies Politick the having the ſole buying and ſelling, and uſing a<g ref="char:EOLhyphen"/>ny Merchandize or Trade as a Corpo<g ref="char:EOLhyphen"/>ration, and then compare the Proviſo with the enacting Clauſe, and it will be juſt thus,</p>
+            <p>
+               <q>Enacted, That Letters Patents to any Body Politick, for ſole buying, ſelling, or uſing any thing, ſhall be void. And that no Body Politick ſhall be capable of having, uſing, or exerciſing any ſuch Patent, Inhibi<g ref="char:EOLhyphen"/>tion, or Reſtraint.</q>
+            </p>
+            <p>
+               <q>Provided that Bodies Politick may have the ſole buying, ſelling, and uſing any Trade:</q>
+            </p>
+            <p>Is not this in plain <hi>Engliſh,</hi> repug<g ref="char:EOLhyphen"/>nant and contradictory? Examine it as much as you can, and it will be no other than a down-right Contradiction.</p>
+            <p>Suppoſe the Statute that enacts, that no Man ſhall uſe a Trade that he hath not ſerved an Apprentice to, by the Space of ſeven Years, had a Pro<g ref="char:EOLhyphen"/>viſo.</p>
+            <p>That Men might uſe a Trade that they had not ſerved an Apprentice to by the Space of ſeven Years.</p>
+            <p>
+               <pb n="48" facs="tcp:95733:25"/>This had ben a void repugnant Pro<g ref="char:EOLhyphen"/>viſo.</p>
+            <p>This is as plainly repugnant,</p>
+            <p>That no Body Politick ſhall be capa<g ref="char:EOLhyphen"/>ble of having a ſole Trade,</p>
+            <p>Provided that a Body may have a ſole Trade.</p>
+            <p>And repugnant Proviſos are in Law void.</p>
+            <p>
+               <note place="margin">1 Rep. 46. Pl. Com. 563.</note>Statute gives the Land of <hi>J. S.</hi> to the King: Then a Proviſo comes to ſave the Right of all Perſons.</p>
+            <p>This ſhall be conſtrued, all Perſons beſides <hi>J. S.</hi> not to deſtroy the Pre<g ref="char:EOLhyphen"/>miſes.</p>
+            <p>Therefore when the Act ſaith, <q>That all Patents granted to Bodies Politick for ſole buying and ſelling or uſing any thing, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Shall the Proviſo that ſaith, That it ſhall not extend or be prejudicial to Companies of Merchants erected for the Maintenance, Enlargement, or order<g ref="char:EOLhyphen"/>ing of Trade,</p>
+            <p>If conſtrued in the ſame Senſe that they would have it, to give the Companies ſole buying, ſelling, and uſing any thing as Companies in their Corporate Capacity, it is repugnant and contra<g ref="char:EOLhyphen"/>dictory.</p>
+            <p>
+               <pb n="49" facs="tcp:95733:25"/>But to give the Companies the Ma<g ref="char:EOLhyphen"/>nagement, Order, and Government, is the Senſe as I conceive.</p>
+            <p>And this is the general Practice of the Societies and Companies allowed in all times.</p>
+            <p>But a ſole Trade, under the Colour and Pretence of Order and Manage<g ref="char:EOLhyphen"/>ment, never, as I believe, hath had any judicial Allowance.</p>
+            <p>
+               <hi>Object.</hi> Another thing that the Coun<g ref="char:EOLhyphen"/>ſel of the other ſide, have objected to evade this Act, hath been this. The Proviſo is;</p>
+            <p>That the Act ſhall not extend to Companies of Merchants erected for Maintenance and Ordering of Trade, but that their Charters, Liberties, and Privileges ſhall be of like Force as they were before the making this Act.</p>
+            <p>And therefore, ſay they, Patents to Companies of Merchants for ordering Trade, if good before this Act, ſhall be good ſtill; and therefore, ſay they, the Act can't hurt us.</p>
+            <p>This is curious, but if examined, is but the ſame Objection in other Words.</p>
+            <p>
+               <pb n="50" facs="tcp:95733:26"/>For the Concluſion of this Proviſo extends no further than the Charters mentioned in the Beginning of it: It extends but to the ſame Charters; ſo are the very Words.</p>
+            <p>What Charters or Patents then ſhall remain in the ſame Force they were before the Act?</p>
+            <p>Thoſe that are excepted.</p>
+            <p>What are excepted?</p>
+            <p>Thoſe that are for Order and Ma<g ref="char:EOLhyphen"/>nagement; as I have before ſhewn.</p>
+            <p>Not thoſe that are for ſole Trade granted to a Body Politick. That is repugnant to the enacting Clauſe; therefore thoſe (as I have ſaid) are not excepted or within the Proviſo.</p>
+            <p>If then not excepted, you are moſt plainly and fully within the enacting Clauſe, and your Patent quite contra<g ref="char:EOLhyphen"/>trary to, and void by this Act; unleſs the matter of Infidel will ſave you.</p>
+            <p>
+               <hi>Object.</hi> But this is a ſole Trade with Infidels, and ſuch a Trade the Subject had never any Right to have without the King's Licence. And to prove it, they cite <hi>Michelburne's</hi> Caſe.</p>
+            <p>
+               <note place="margin">2. Brown<g ref="char:EOLhyphen"/>low 296.</note>Wherein Mr. <hi>Brownlow</hi> being Pro<g ref="char:EOLhyphen"/>thonotary, doth relate what my Lord
+<pb n="51" facs="tcp:95733:26"/>
+               <hi>Coke</hi> ſaid, That no Subject of the King might trade with any Realm of Infi<g ref="char:EOLhyphen"/>dels, without the King's Licence.</p>
+            <p>And that the Reaſon was becauſe he might relinquiſh the Catholick Faith, and adhere to Infideliſm: And that he had ſeen a Licence in the Time of <hi>E.</hi> 3. where the King recited the Confidence that he had in his Subject, that he would not decline his Religion; and ſo licenced him.</p>
+            <p>And that this did ariſe upon the Re<g ref="char:EOLhyphen"/>cital of a Licence made to trade to the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>They cite alſo <hi>Calvin's</hi> Caſe, 7 <hi>Rep.</hi> 17. where 'tis ſaid, That Infidels are <hi>perpetui inimici;</hi> there is perpetual Ho<g ref="char:EOLhyphen"/>ſtility, there can be no Peace; an Infi<g ref="char:EOLhyphen"/>del can maintain no Action, nor have any thing within this Realm; and to prove this there is cited, <hi>R.</hi> 282. 12 <hi>H.</hi> 8. 4.</p>
+            <p n="1">1. Suppoſing the Law to be as theſe Books intend, and as the other ſide urge them, and the Conſequence will be, that the Plaintiff can't maintain this Action, but that the Charter grant<g ref="char:EOLhyphen"/>ed to them, is void.</p>
+            <p>The Reaſon that is given in <hi>Michel<g ref="char:EOLhyphen"/>burn</hi>'s Caſe is grounded upon this: That
+<pb n="52" facs="tcp:95733:27"/>
+the King hath the Care and Preſerva<g ref="char:EOLhyphen"/>tion of Religion by the Law veſted in him: That his Subjects ſhall not trade with Infidels, leſt thereby they may be brought to relinquiſh the Ca<g ref="char:EOLhyphen"/>tholick Faith, and adhere to Infideliſm: And that the King ſhall take care, that Licences to trade be only given to ſuch as the King hath Confidence in, that they will not decline their Religion.</p>
+            <p>Suppoſing this, then your Patent muſt be naught, for then it is only grantable to Perſons in whom ſuch Confidence may be.</p>
+            <p n="1">1. Your Corporation or Body Politick is indefinite as to Perſons; the Mem<g ref="char:EOLhyphen"/>bers thereof are daily changeable; ſome go out, ſell their Stocks, or dye; others buy their Stocks, and are daily coming in to be Members of your Company.</p>
+            <p>I doubt you do not much examine, nor care how fixed or certain thoſe are in Religion, that come into your Com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>How then can there be any Confi<g ref="char:EOLhyphen"/>dence in a Body Politick?</p>
+            <p>The Law ſaith, that a Body Poli<g ref="char:EOLhyphen"/>tick hath neither Soul nor Conſcience:
+<pb n="53" facs="tcp:95733:27"/>
+What Confidence then concerning their Religion can there be in a Body Politick?</p>
+            <p n="2">2. 'Tis not only the Members of the Company that were at the Time of the Corporation, but thoſe that after ſhould be Members, and their Sons, their Apprentices, Factors, and Servants that are licenſed by this Patent.</p>
+            <p>If licenſing to trade with Infidels be a Truſt and Prerogative in the King, to be given to ſuch Perſons in whom the King can have Confidence, that they will not be converſing with Infi<g ref="char:EOLhyphen"/>dels, change or prejudice;</p>
+            <p>This can't be granted to a Body Po<g ref="char:EOLhyphen"/>litick and their Succeſſors, which may have Continuance for ever; or to their Sons, Factors, Apprentices, and Ser<g ref="char:EOLhyphen"/>vants, Perſons altogether unknown, not born, nor <hi>in rerum natura,</hi> when the Patent was made.</p>
+            <p>Suppoſe ſuch a Licence to you to trade with Enemies. I ſay,</p>
+            <p n="3">3. Suppoſing it to be in the King's Prerogative, in Preſervation of Religion to licence; yet he can't grant this Pre<g ref="char:EOLhyphen"/>rogative to you, that you ſhall have Power to grant Licence to whom you will.</p>
+            <p>
+               <pb n="54" facs="tcp:95733:28"/>Yet all this is done by your Patent; for you have not only thereby Power granted you for your Apprentices, Fa<g ref="char:EOLhyphen"/>ctors and Servants, which are Perſons that you your ſelves nominate and ap<g ref="char:EOLhyphen"/>point at your Diſcretions; and un<g ref="char:EOLhyphen"/>doubtedly very religious:</p>
+            <p>But by your Patent it is expreſly granted, that the Company, for any Conſideration or Benefit to themſelves, may grant Licences to any Merchant, Stranger, or other, to trade to or from the <hi>Indies:</hi>
+            </p>
+            <p>And that the King will not, with<g ref="char:EOLhyphen"/>out the Conſent of the Company, li<g ref="char:EOLhyphen"/>cence any other to trade.</p>
+            <p>Can this be a good Grant? Can the King grant from himſelf his Kingly Care and Truſt for Preſervation of Re<g ref="char:EOLhyphen"/>ligion, to you, that you ſhall manage it, and that the King will not uſe ſuch his Power without your Conſent?</p>
+            <p>So that ſuppoſing that there is, by the Law, ſuch a Truſt repoſed in the King, for Preſervation of Religion, as you would have it; yet the Grant to you is void in it ſelf, and then you have no more Right than we, and con<g ref="char:EOLhyphen"/>ſequently can maintain no Action againſt us.</p>
+            <p n="2">
+               <pb n="55" facs="tcp:95733:28"/>2. To conſider the Books that you have cited to maintain this religious Point.</p>
+            <p n="1">1. <hi>Brownlow's Reports,</hi> a Book print<g ref="char:EOLhyphen"/>ed in the late Times, not licenſed by any Judge or Perſon whatſoever.</p>
+            <p>The Roll is,<note place="margin">Mich. 7 Jac. B. C. Rot. 3107.</note> 
+               <hi>Michelburn</hi> againſt <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thurst,</hi> ſetting forth, that the King had granted the Plaintiff his Commiſſion to go with his Ship <hi>Tiger,</hi> to the <hi>Eaſt-In<g ref="char:EOLhyphen"/>dies,</hi> to ſpoil and ſuppreſs the Infidels, and to take from them what he could. That there were Articles betwixt the Parties for Account and Shares of what ſhould be got, and upon thoſe Articles a Suit in the Admiralty.</p>
+            <p>And what is it that is in the Caſe? Nothing to the purpoſe; but the Book mentions only what my Lord <hi>Coke</hi> ſaid upon the Motion for the Prohibiti<g ref="char:EOLhyphen"/>on: Only a ſudden occaſional Saying, not upon any Argument or Debate, nor to the then Caſe.</p>
+            <p>So that a Man muſt be very willing that will much rely upon ſuch a Say<g ref="char:EOLhyphen"/>ing, I can't call it an Authority.</p>
+            <p n="2">2. For <hi>Calvin</hi>'s Caſe;</p>
+            <p>That an Infidel is <hi>perpetuus Inimicus,</hi> and can maintain no Action, or have
+<pb n="56" facs="tcp:95733:29"/>
+any thing, and that we are in perpe<g ref="char:EOLhyphen"/>tual Hoſtility, and no Peace can be made with them.</p>
+            <p>It is true, that this is ſaid in <hi>Calvin's</hi> Caſe; but there was nothing there in Judgment that gave Occaſion for it, ſo that I can't think that it was much conſidered before it was ſpoken.</p>
+            <p>The Books there cited to prove it are, <hi>Reg.</hi> 282. And all that I can find therein, is, that in a Writ of Protecti<g ref="char:EOLhyphen"/>on, granted to the Hoſpitallers of the Hoſpital of St. <hi>John's</hi> of <hi>Jeruſalem,</hi> it is ſaid, that the Hoſpital was founded in Defence of Holy Church againſt the Enemies of Chriſt and Chriſtians.</p>
+            <p>But doth this prove, that Infidels are <hi>perpetui Inimici,</hi> with whom no Peace can be made, that can maintain no Action?</p>
+            <p>The other Book cited is, 12 <hi>H.</hi> 8. 4. <hi>a</hi> Treſpaſs brought for taking away a Dog, and in the debating whether this Action did lye or not; it is ſaid,</p>
+            <p>That if the Lord beat his Villain, an Husband his Wife, or a Man out-lawed, or a Traitor, or a Pagan, they ſhall have no Action, becauſe they are not able to ſue an Action.</p>
+            <p>
+               <pb n="57" facs="tcp:95733:29"/>So that this alſo is but Diſcourſe and ſudden Thoughts and Sayings, where the thing was not in Queſtion: And what Authority is there in ſuch Say<g ref="char:EOLhyphen"/>ings? It is true, that Chriſtian Reli<g ref="char:EOLhyphen"/>gion and Paganiſm are ſo contrary one to the other, as impoſſible to be re<g ref="char:EOLhyphen"/>conciled, no more than Contradictions can be reconciled.</p>
+            <p>But becauſe they can't be reconciled that therefore there ſhould be perpetu<g ref="char:EOLhyphen"/>al War betwixt them and us, perhaps is an irreligious Doctrine, and deſtroys all Means of convincing Infidels to the Faith.</p>
+            <p>And beſides, theſe extrajudicial and occaſional Sayings in theſe Books cited, are of little Authority: For I can't find any Book or Caſe, much leſs Judg<g ref="char:EOLhyphen"/>ment or Authority for ſuch Opini<g ref="char:EOLhyphen"/>ons in ſo great a Point as this is.</p>
+            <p>But on the other ſide, if a Man con<g ref="char:EOLhyphen"/>ſiders the general Courſe and Practice, Trade and Commerce, and legal Pro<g ref="char:EOLhyphen"/>ceedings; a Man would think, That my Lord <hi>Coke</hi> could not be in earneſt in what he hath ſaid about Infidels.</p>
+            <p>For let a Man conſider what a great Part of the World we have Commerce
+<pb n="58" facs="tcp:95733:30"/>
+with, that are Infidels, as <hi>Turks, Per<g ref="char:EOLhyphen"/>ſians,</hi> the Inhabitants of <hi>Barbary,</hi> and other Countries.</p>
+            <p>
+               <hi>Spain</hi> and <hi>Portugal</hi> were alſo poſſeſ<g ref="char:EOLhyphen"/>ſed by the <hi>Moors,</hi> who were Infidels, till about the Year 1474. about 200 Years ſince they were driven out, for till then, for near the Space of 700 Years the <hi>Moors</hi> poſſeſſed both <hi>Spain</hi> and <hi>Portugal.</hi>
+            </p>
+            <p>Have we not Leagues and Treaties with the Princes and Inhabitants of the Infidel Countries, receiving Embaſſa<g ref="char:EOLhyphen"/>dors from them, and ſending Embaſ<g ref="char:EOLhyphen"/>ſadors to them, and Miniſters always reſiding with them? Have we not from Time to Time, Peace or War with them in like manner, as with Chriſtian Kings and Countries?</p>
+            <p>If Infidels be <hi>perpetui Inimici,</hi> if in perpetual Enmity, then we may ju<g ref="char:EOLhyphen"/>ſtifie the killing of them, as thoſe that we are in Hoſtility with, whereſoever we meet with them.</p>
+            <p>17 <hi>E.</hi> 4. 13. <hi>b.</hi> 2 <hi>H.</hi> 7. 15. Adjudg<g ref="char:EOLhyphen"/>ed that any Man may ſeize and take to his own Uſe, the Goods of an alien Enemy.</p>
+            <p>
+               <pb n="59" facs="tcp:95733:30"/>'Tis the Price of his Adventure and Victory over his Enemy.</p>
+            <p>If an Infidel be any Enemy, any Man may then take away the Goods of an Infidel, and have them to his own Uſe: And this would be a good Trade if this be ſo.</p>
+            <p>Mr. <hi>Sollicitor,</hi> in his Argument, was pleaſed to cite many ancient Rolls out of <hi>H.</hi> 3. and <hi>E.</hi> 1. and about thoſe Times, concerning thoſe Princes hand<g ref="char:EOLhyphen"/>ling the Jews.</p>
+            <p>In Mr. <hi>Pryn's</hi> Book that he calls <hi>The ſecond Part of a ſhort Demurrer to the Jews long diſcontinued Remitter into En<g ref="char:EOLhyphen"/>gland;</hi> printed in 1656.</p>
+            <p>In which Book, I believe, an hun<g ref="char:EOLhyphen"/>dred Records and Hiſtories are cited to ſhew how they were about thoſe times handled.</p>
+            <p>The Time that they did exact, and much enrich themſelves by Uſury, to the great Impoveriſhment of the Peo<g ref="char:EOLhyphen"/>ple: And that the Princes of thoſe Times polled them, taxed them, and took it from them again at Pleaſure.</p>
+            <p>But beſides Mr. <hi>Pryn,</hi>
+            </p>
+            <p>Stat. of <hi>Merton, C.</hi> 5. made 20 <hi>H.</hi> 7. was, my Lord <hi>Coke</hi> ſaith,<note place="margin">2 Inſt. 89.</note> principally
+<pb n="60" facs="tcp:95733:31"/>
+intended againſt the uſurious Jews.</p>
+            <p>Stat. <hi>de Judaiſmo</hi> 18 <hi>E.</hi> 1. Recites, that the King's People were diſinheri<g ref="char:EOLhyphen"/>ted by the uſurious Jews: And enacts, That no Jew, for the future, ſhall take Uſury.</p>
+            <p>
+               <note place="margin">2 Inſt. 507.</note>My Lord <hi>Coke</hi> ſaith, that 15060 Jews thereupon departed the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>But for the Uſe that in arguing is made of this matter of the Jews and of the King's ſeizing their Eſtates, and pardoning for dealing with them.</p>
+            <p n="1">1. As for thoſe ancient Records in general.</p>
+            <p>Time hath hidden the Knowledg of the Laws, and Tranſactions of thoſe Times: It is impoſſible to know what the Laws of thoſe Times were, or right<g ref="char:EOLhyphen"/>ly to diſtinguiſh betwixt legal and vi<g ref="char:EOLhyphen"/>olent Acts: And to bring Inferences from thence, to conclude in Judgment now, is <hi>Notum per Ignotius:</hi> Or like Dependencies, which, unleſs latter Times have concurred or agreed with, are only fit to make Diſorder and Con<g ref="char:EOLhyphen"/>fuſion.</p>
+            <p n="2">2. But that which is deducible from thence is not, as I conceive, what hath been endeavoured.</p>
+            <p>
+               <pb n="61" facs="tcp:95733:31"/>That is, that they had no Pro<g ref="char:EOLhyphen"/>perty, becauſe the Princes of thoſe Times took from them their Eſtates when they pleaſed, or taxed them how, and in what manner they plea<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>But perhaps the Reaſon was be<g ref="char:EOLhyphen"/>cauſe thoſe People lying under the Curſe, and being a vagrant People, without Head, Prince, or Governour, or Country; it was no Difficulty to tax, or take from them at Pleaſure, be<g ref="char:EOLhyphen"/>ing hated of the People where they lived.</p>
+            <p>For it could not be as they would have it, that they ſhould be amongſt us as alien Enemies; for an alien Ene<g ref="char:EOLhyphen"/>my can make neither Bargain nor Con<g ref="char:EOLhyphen"/>tract, nor be capable of Property.</p>
+            <p>But the Subject may, at his Will and Pleaſure, fall upon and take all that he hath to his own Uſe, as upon the King's Enemies; and what he can take from him is his own Acquiſition, as the Prize of his Adventure, and Conqueſt over his Enemy: And to prove this, two Books are cited, 17 <hi>E.</hi> 4. and 2 <hi>H.</hi> 7.</p>
+            <p>
+               <pb n="62" facs="tcp:95733:32"/>But by what is admitted by them, that they were great Uſurers, and had great Eſtates,</p>
+            <p>It is evident that they were treated as alien Amies: How could they elſe, in ſuch Multitudes, live amongſt us? How could they be Uſurers or get Eſ<g ref="char:EOLhyphen"/>tates if they could not make Contracts? How is it poſſible they could preſerve their Bodies or Eſtates againſt the King's Subjects, unleſs they had the King's Protection, and treated as alien Amies?</p>
+            <p>And of latter Times, how many of them have lived amongſt us, driven great Trades, have had, and have, at this preſent, conſiderable Eſtates?</p>
+            <p>Let it be now adjudged, that any Man that will, may take away their Eſtates, that they can have no Reme<g ref="char:EOLhyphen"/>dy or Action for any Debt owing to them, but inſtead thereof, may be beaten and impriſoned as Enemies to the King: And we ſhall probably ſee what the Succeſs of ſuch a Judgment will be.</p>
+            <p>
+               <note place="margin">12 Car. 2. cap. 18.</note>The Act of Navigation, made the 12 Year of the King, concerning Trade, ſhews, that Infidels have the ſame Li<g ref="char:EOLhyphen"/>berty of Trade as others.</p>
+            <p>
+               <pb n="63" facs="tcp:95733:32"/>That Act being made for Encreaſe of Shipping and Navigation, and pro<g ref="char:EOLhyphen"/>hibiting Goods to be imported by any foreign Ships, except the Ships of the ſame Country where the Goods do grow or ariſe, diſtinguiſheth not be<g ref="char:EOLhyphen"/>twixt Infidel and Chriſtian Countries: But expreſly ſaith, <q>That Currants, nor Commodities of the Growth of the <hi>Turkiſh</hi> or <hi>Ottoman</hi> Empire, ſhall be imported but by <hi>Engliſh</hi> Ships, ex<g ref="char:EOLhyphen"/>cept Ships of the Built of that Coun<g ref="char:EOLhyphen"/>try or Place where the Growth is, and whereof the Maſter of the Ma<g ref="char:EOLhyphen"/>riners is of that Country or Place.</q>
+            </p>
+            <p>This Clauſe ſhews plainly, that the Infidels of the <hi>Turkiſh</hi> and <hi>Ottoman</hi> Em<g ref="char:EOLhyphen"/>pire have Liberty of Trade here.</p>
+            <p>And the Acts of Tunnage and Poundage tax all their Merchandizes without ſaying brought in.</p>
+            <p>In <hi>Southern</hi> &amp; <hi>How</hi>'s Caſe, 2 <hi>Cr.</hi> 469. where a Man imployed another to ſell Jewels for him in <hi>Barbary,</hi> as true Jewels, and he ſold them to the King of <hi>Barbary</hi> for 800 <hi>l.</hi> as true Jewels, when they were counterfeit, and thereupon the King of <hi>Barbary</hi> finding himſelf cheated, im<g ref="char:EOLhyphen"/>priſoned the Plaintiff that ſold them,
+<pb n="64" facs="tcp:95733:33"/>
+to him, till he repaid his Mony</p>
+            <p>In that Caſe 'twas of all ſides admitted, and not as much as objected, that this Contract was void, becauſe the King of <hi>Barbary</hi> was an Infidel.</p>
+            <p>So that this Opinion, that Infidels are perpetual Enemies, and in perpe<g ref="char:EOLhyphen"/>tual Hoſtility, can maintain no Action, nor have any thing amongſt us, hath no Authority for its Foundation, but only ſome extrajudicial Sayings, with<g ref="char:EOLhyphen"/>out Debate or Conſideration: And is againſt all the continual Practices of Princes and People at all Times.</p>
+            <p>Perhaps 'tis no ſmall Part of Religi<g ref="char:EOLhyphen"/>on, that Men ſhould ſpeak and deal plainly and uprightly one with ano<g ref="char:EOLhyphen"/>ther. We do know that Religion hath been too often made a Cloak and Vail for other Ends and Purpoſes. It ſhould not be ſo: And I hope, will not be ſo uſed in this Caſe.</p>
+            <p>The Statutes that I have cited of <hi>Magna Charta, c.</hi> 9. <hi>E.</hi> 3. 25 <hi>E.</hi> 3. 2. and 11 <hi>R.</hi> 2. All declare and enact the Freedom of Trade in general Words, except only ſuch as are in War with the King. In none of them is there any Exception of Trade with In<g ref="char:EOLhyphen"/>fidels.</p>
+            <p>
+               <pb n="65" facs="tcp:95733:33"/>Can it be imagined, that in thoſe Days we had no Trade with <hi>Turkey</hi> or <hi>Barbary?</hi> Our Kings went with Armies to the Holy Land. King had made War and Peace with the <hi>Turks.</hi> Had we no Trade there but with our Swords?</p>
+            <p>But to look nearer home, <hi>Spain</hi> and <hi>Portugal</hi> were Infidels, and in the Hands of the <hi>Moors,</hi> until <hi>anno</hi> 1474. which was 14 <hi>E.</hi> 4. Can it be thought that in all thoſe Times betwixt <hi>Mag<g ref="char:EOLhyphen"/>na Charta, H.</hi> 3. and <hi>E.</hi> 4. we had no Trade with <hi>Spain</hi> or <hi>Portugal?</hi>
+            </p>
+            <p>Stat. 12 <hi>H.</hi> 7. <hi>c.</hi> 6. was made in the Year 1497. which is but 23 Years af<g ref="char:EOLhyphen"/>ter the <hi>Moors</hi> were driven out, and in that Statute 'tis Recited,</p>
+            <p>
+               <q>That the Merchants Adventurers, dwelling in divers Parts of <hi>England,</hi> out of <hi>London,</hi> did ſhew,</q>
+            </p>
+            <p>
+               <q>That whereas they have had free Paſſage, Courſe and Recourſe with their Goods, Wares, and Merchan<g ref="char:EOLhyphen"/>dizes in divers Coaſts and Parts be<g ref="char:EOLhyphen"/>yond the Seas, as well into <hi>Spain, Portugal, Venice, Danzick, East-land, Frize-Land,</hi> and divers, and many other Regions and Countries in
+<pb n="66" facs="tcp:95733:34"/>
+League and Amity with the King;</q>
+            </p>
+            <p>
+               <q>That they were impoſed upon by the Company of Merchants in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and forced to pay Duties.</q>
+            </p>
+            <p>I only make uſe of this Recital, to prove the free Paſſage there mentioned, to <hi>Spain</hi> and <hi>Portugal,</hi> and to other Countries and Regions. There is no Diſtinction of Infidel from Chriſtian Country, though <hi>Spain</hi> and <hi>Portugal</hi> had been ſo lately Infidel; and though moſt probably, the Trade they had then, was with <hi>Turkey</hi> and <hi>Barbary,</hi> as well as with <hi>Venice:</hi> The Words <hi>[other Regions and Countries,]</hi> ſeem to imply as much, and the Freedom equal.</p>
+            <p>So that I think, as to this Objection, that Infidels are perpetual Enemies, that we have no Peace with them, nor they maintain any Action, or have any Property by our Law; I think the Authority to maintain it is none at all; The conſtant Practice, as well by Princes as People, has been always againſt it.</p>
+            <p>But be that Point of trading with or without Licence, how it will;</p>
+            <p>
+               <pb n="67" facs="tcp:95733:34"/>That Point can't be ſufficient to found a Monopoly upon, that can't warrant a Grant of a ſole Trade, ſole buying, and ſole ſelling, to be granted to you and your Succeſſors, your Sons, your Servants, your Apprentices and Factors, and ſuch as you ſhall licenſe for ever.</p>
+            <p>Here is a Licence in Perpetuity, not only to thoſe that then were, but to their Sons and Succeſſors, and thoſe whom they ſhall licenſe for ever: And this into a very great Part of the World: And by the ſame Reaſon all <hi>Turkey</hi> and <hi>Barbary,</hi> a great Part of the <hi>Weſt-Indies,</hi> and other Parts of the World may be monopolized, and per<g ref="char:EOLhyphen"/>haps all Chriſtian Countries.</p>
+            <p>The Statute of Monopolies hath no Allowance or Exception for monopo<g ref="char:EOLhyphen"/>lizing to Infidel Countries.</p>
+            <p>That Statute is againſt all ſole buy<g ref="char:EOLhyphen"/>ing, ſole ſelling, or ſole uſing any thing.</p>
+            <p>And the <hi>Turkey</hi> Trade was uſed long before that Time, as by the Charter granted 23 <hi>Eliz.</hi> So was the <hi>Barbary,</hi> as by the Charter thereof; and I be<g ref="char:EOLhyphen"/>lieve to the <hi>Indies</hi> alſo.</p>
+            <p>
+               <pb n="68" facs="tcp:95733:35"/>And the Statute of Monopolies be<g ref="char:EOLhyphen"/>ing ſo general (the Proviſo not rea<g ref="char:EOLhyphen"/>ſonably conſtruable, to except this Company out of the Extent of that Statute, unleſs all Patents that may be granted to Companies of Monopolies are, by that Exception or Proviſo, out of the Statute) and deſerving for the ſuppreſſing ſo great Evils as Monopo<g ref="char:EOLhyphen"/>lies are, and always have been ac<g ref="char:EOLhyphen"/>counted:</p>
+            <p>I hope it will not be avoided upon an imaginary Difference in Law betwixt Infidel and Chriſtian Countries, to monopolize thereby the Trade, per<g ref="char:EOLhyphen"/>haps, of the greater Half of the World; as <hi>Turkey, Perſia, Barbary, Eaſt</hi> and <hi>West-Indies;</hi> for thoſe of the <hi>Weſt-Indies,</hi> a great Part, I think, are Pagans.</p>
+            <p>
+               <note place="margin">Exch. 4. C. 1. Lane 24. 2 Inſt. 63.</note>In the great Debates that were about 3 and 4 <hi>Car.</hi> 1. about the King's Power of impoſing Rates, Subſidies, or Impoſitions upon Merchandize, in <hi>Bates</hi> his Caſe; and in the Parliaments are many things ſaid concerning the King's Power of prohibiting Trade.</p>
+            <p>Reſtraining by a <hi>Ne exeat Regno.</hi> And from theſe Arguments they reaſon
+<pb n="69" facs="tcp:95733:35"/>
+the Lawfulneſs of Impoſition upon Merchandize.</p>
+            <p>The Arguments and Reaſons in thoſe Debates did not diſtinguiſh be<g ref="char:EOLhyphen"/>twixt Infidel and Chriſtian Countries. But betwixt Native and Foreign Commodities or Merchandize. And did endeavour to have a Prerogative to tax foreign Commodities.</p>
+            <p>And their Reaſons run thus,</p>
+            <p>The King can prohibit or reſtrain any Merchant to go out of the King<g ref="char:EOLhyphen"/>dom: He can reſtrain any ſort of fo<g ref="char:EOLhyphen"/>reign Commodities to be imported: If he can reſtrain, then none can go or import contrary to ſuch Reſtriction or Prohibition without Licence. Then the Licence is grantable upon Payment of ſuch or ſuch Duty or Impoſition, or as it can be agreed for and had; and conſequently ſuch Impoſition, Farm, or Rent lawful.</p>
+            <p>And in the Argument of thoſe Mat<g ref="char:EOLhyphen"/>ters, it appears that a Reſtraint in its Conſequence may import a Tax, or an Impoſition, or Rent or Farm.</p>
+            <p>If Licences be requiſite, whether that will introduce Rates to be impoſed
+<pb n="70" facs="tcp:95733:36"/>
+otherwiſe than by Act of Parliament, may be conſidered.</p>
+            <p>Suppoſe it true, that there have been Licences granted, to go into In<g ref="char:EOLhyphen"/>fidel Countries. So there have been to go beyond Seas.</p>
+            <p>But it is no Conſequence, that be<g ref="char:EOLhyphen"/>cauſe ſuch have been granted, that therefore it is unlawful to go or trade without Licences.</p>
+            <p>Much leſs doth it follow from thence, that ſuch a Patent as this to any one or few Subjects to have the whole and ſole Trade into any one Place, can be warranted.</p>
+            <p>I do not queſtion but the King may reſtrain the Paſſage of Merchants and Merchandize in ſome Caſes, and Em<g ref="char:EOLhyphen"/>bargue Ships in ſome Caſes. But theſe are upon ſeveral Reaſons.</p>
+            <p n="1">1. In Caſes of War.</p>
+            <p n="2">2. In Caſes of ſuch Merchandizes as are neceſſary for the Safety or Defence of the Kingdom, to reſtrain their Ex<g ref="char:EOLhyphen"/>portation.</p>
+            <p n="3">3. In Caſes of Plague from particu<g ref="char:EOLhyphen"/>lar Place to import.</p>
+            <p>But then theſe Prohibitions are ge<g ref="char:EOLhyphen"/>neral, and their particular Reaſons and Grounds are apparent.</p>
+            <p>
+               <pb n="71" facs="tcp:95733:36"/>But if under any Pretence, any ſole Trade to ſome one Perſon, Body poli<g ref="char:EOLhyphen"/>tick, or Natural, be granted, exclu<g ref="char:EOLhyphen"/>ding all others, That Grant is, I con<g ref="char:EOLhyphen"/>ceive, in Deceit of the King, and to the Prejudice of his Subjects, and void.</p>
+            <p>Never any ſuch Grant hath hitherto had any judicial Allowance; but ſo far from that, that as far as I could ob<g ref="char:EOLhyphen"/>ſerve, no Opinion hath been, till with<g ref="char:EOLhyphen"/>in 4 or 5 Years, that ſuch Grants were good to exclude others: Nor any Acti<g ref="char:EOLhyphen"/>on or Suit ever adventured before now to be brought upon any ſuch Ground.</p>
+            <p>But if the Law ſhould be ſo, and that the Defendant ought not to have traded there without Licenſe,</p>
+            <p>Then he may be puniſhable at the King's Suit, by Fine and Impriſon<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But that you ſhould maintain an Action againſt him; what Cauſe of Action, or what Damage or Loſs to you have you laid in your Declarati<g ref="char:EOLhyphen"/>on?</p>
+            <p>You ſay in your Declaration, <q>That the Defendant <hi>Sands,</hi> not being a Member of the Company, nor Son, Servant, Factor, Apprentice, or Aſ<g ref="char:EOLhyphen"/>ſignee
+<pb n="72" facs="tcp:95733:37"/>
+of the Company, traded and mer<g ref="char:EOLhyphen"/>chandized in the <hi>Eaſt-Indies,</hi> within the Places granted to you by your Charter, and hath there bargained and ſold Wares and Merchandizes, and there bought others, and import<g ref="char:EOLhyphen"/>ed and ſold them in <hi>England,</hi> againſt the Will of the Company, to their Prejudice and Impoveriſhment, a<g ref="char:EOLhyphen"/>gainſt the Form of the Letters Pa<g ref="char:EOLhyphen"/>tents, to the Damage of the Compa<g ref="char:EOLhyphen"/>ny, 1000 <hi>l.</hi>
+               </q>
+            </p>
+            <p n="1">1. You have not alledged that he had no Licenſe from the King.</p>
+            <p n="2">2. You have not ſhewn any Loſs or Damage that you have.</p>
+            <p>Did he buy ſo much Merchandize in the <hi>Indies,</hi> as that he left not there ſuf<g ref="char:EOLhyphen"/>ficient for you to furniſh your Ships withall, ſo that they came home emp<g ref="char:EOLhyphen"/>ty?</p>
+            <p>No ſuch thing is alledged.</p>
+            <p>Or did he here export, to ſell ſo much Merchandize, as not ſufficient left for you to buy here?</p>
+            <p>No ſuch thing alledged in your De<g ref="char:EOLhyphen"/>claration.</p>
+            <p>Or did he bring home here ſo much as that there were not Buyers ſuf<g ref="char:EOLhyphen"/>ficient
+<pb n="73" facs="tcp:95733:37"/>
+for his Goods and your's al<g ref="char:EOLhyphen"/>ſo?</p>
+            <p>No ſuch thing is alledged.</p>
+            <p>Or is the Truth ſo, as that hereby your impoſing your Prizes upon your own Commodities, ſelling at your own Rates, and exacting what you thought fit, was hindred; and for this you would maintain an Action?</p>
+            <p>It will be the firſt Time, I think, that a Man did ever recover Damages for being hindred of impoſing and ex<g ref="char:EOLhyphen"/>acting his own Prizes, or having the Advantage of his Monopoly.</p>
+            <p>A Commoner may bring an Action of the Caſe againſt a Stranger, who puts in his Cattel into the Common; provided that thereby the Common be impaired, and the Commoner have not ſufficient Common, as before, but have a Damage; otherwiſe he can maintain no Action.</p>
+            <p>Reſolved,<note place="margin">Co. 9 Rep. 113.</note> that for every feeding of the Beaſts of a Stranger in a Common, the Commoner ſhall not have an Aſ<g ref="char:EOLhyphen"/>ſize or Action upon the Caſe, but the feeding ought to be ſuch, that thereby the Commoner cannot have Common of Paſture for his own Beaſts.</p>
+            <p>
+               <pb n="74" facs="tcp:95733:38"/>'Tis the Conſequence, the Loſs of his Common that gives him Cauſe of Action.</p>
+            <p>'Tis not alledged in the Declaration, that your Trade was any thing the worſe: No Damage to you appears by it.</p>
+            <p>What Reaſon is there that you ſhould recover Damages where you have not ſuſtained any Loſs? And if you have alledged none in your Decla<g ref="char:EOLhyphen"/>ration, how can your Declaration be good? It then contains no Cauſe of Action.</p>
+            <p>
+               <note place="margin">11 Co. Rep. 88. b. Rols Abr. 1 part. 106.</note>The laſt Point in that Caſe is there reſolved, that admitting the patent good, yet no Action would lye.</p>
+            <p>In that Caſe the Queen, by her Let<g ref="char:EOLhyphen"/>ters Patents, had granted to Mr. <hi>Dar<g ref="char:EOLhyphen"/>cey,</hi> that he, his Servants, Factors, and Deputies, the whole Trade, Traf<g ref="char:EOLhyphen"/>fick and Merchandize of Cards for 12 Years ſhould have and uſe: That none elſe ſhould uſe the Trade, nor buy or ſell Cards: That the Defendant did, contrary to this Patent ſell Cards.</p>
+            <p n="1">1. Adjudged that this was a Mono<g ref="char:EOLhyphen"/>poly, and the Patent void.</p>
+            <p n="2">2. That if the Patent had been
+<pb n="75" facs="tcp:95733:38"/>
+good, yet no Action would have lyen againſt the Defendant upon it.</p>
+            <p n="2">2. But for another Reaſon you can't maintain this Action.</p>
+            <p>It is grounded upon the Reſtraint and Prohibition of others to trade, contained in the Letters Patents.</p>
+            <p>That Reſtraint or Prohibition is not an abſolute Reſtraint or Prohibition, but <hi>ſub modo,</hi> under a Pain of Forfei<g ref="char:EOLhyphen"/>ture of Ship and Goods; One half to the King, another half to you that are the Company.</p>
+            <p>Now ſuppoſing all that you can de<g ref="char:EOLhyphen"/>ſire; That this Patent ſhould have the Force and Vertue of an Act of Parlia<g ref="char:EOLhyphen"/>ment, yet ſuch an Action as this could not be maintained upon it; but you muſt ſue for the Forfeiture.</p>
+            <p>For whenſoever a new Law is made, you muſt take that new Law as it is, and it can't be extended.</p>
+            <p>
+               <hi>Co.</hi> 7 <hi>Rep.</hi> 37. 11 <hi>Rep.</hi> 59. and <hi>Pl. Com.</hi> 206. All prove it.</p>
+            <p>Stat. <hi>E.</hi> 6. gives treble Damages for not ſetting out of Tithes.</p>
+            <p>Can the Party wave this Way, and bring an Action of the Caſe? Yet here the Damages are given to the Party.</p>
+            <p>
+               <pb n="76" facs="tcp:95733:39"/>The like of all other penal Statutes; a Man muſt forfeit only the Penalty the Statute inflicts.</p>
+            <p>So that this Action cannot, as I con<g ref="char:EOLhyphen"/>ceive, be maintained.</p>
+            <p>So that to conclude:</p>
+            <p n="1">1. That which this Company claims in this Caſe by this Patent, to have the ſole Trade to the <hi>Eaſt-Indies</hi> in their Politick Capacity, excluding all others, is a Monopoly and ingroſſing againſt the common Law; the ancient Sta<g ref="char:EOLhyphen"/>tutes; the Statute of Monopolies 21 <hi>Jac.</hi>
+            </p>
+            <p>And therefore they have no Right to have what they claim.</p>
+            <p n="2">2. That what the Defendant hath in this Caſe done, he hath lawfully done, and therefore not to be puniſh<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="3">3. That though the Company had a lawful Claim to the Trade in ſuch manner as in their Declaration ſet forth, and the Defendant have done what he ought not, yet they can't main<g ref="char:EOLhyphen"/>tain this Action.</p>
+            <p>And upon the whole matter, Whe<g ref="char:EOLhyphen"/>ther beſt for the Company to have
+<pb n="77" facs="tcp:95733:39"/>
+Judgment for them or againſt them, may deſerve their Thoughts.</p>
+            <p>And this being ſo great in the Con<g ref="char:EOLhyphen"/>ſeqence, as the whole Trade of the Kingdom depending upon it, I have laboured the more.</p>
+            <p>The ancient Laws, the ancient Ways, is what I endeavour, and againſt new Ways upon any Pretence whatſoever.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95733:40"/>
+            <head>Some Books printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil.</hi>
+            </head>
+            <p>THE Works of the Moſt Reve<g ref="char:EOLhyphen"/>rend Dr. <hi>John Tillotſon,</hi> late Lord Archbiſhop of <hi>Canterbury,</hi> con<g ref="char:EOLhyphen"/>taining Fifty four Sermons and Diſ<g ref="char:EOLhyphen"/>courſes on Several Occaſions; toge<g ref="char:EOLhyphen"/>ther with the Rule of Faith. Being all that were publiſhed by his Grace him<g ref="char:EOLhyphen"/>ſelf, and now collected into one Vo<g ref="char:EOLhyphen"/>lume: To which is added, an Alpabe<g ref="char:EOLhyphen"/>tical Table of the Principal Matters. <hi>Price</hi> 20 s.</p>
+            <p>Six Sermons; <hi>viz.</hi> Of Stedfaſtneſs in Religion. Of Family Religion. Of Education of Children. Of the Advantages of an early Piety. By his Grace, <hi>John,</hi> late Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi> In 12<hi rend="sup">o</hi>. <hi>price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>A Perſwaſive to frequent Communi<g ref="char:EOLhyphen"/>on in the Holy Sacrament of the Lord's Supper; alſo by his Grace, <hi>John,</hi> late Archbiſhop of <hi>Canterbury,</hi> in 12<hi rend="sup">o</hi>. Bound 6 <hi>d.</hi> or Stich'd in 8<hi rend="sup">o</hi>. 3 <hi>d.</hi> or ſomething cheaper to thoſe that are ſo Charitable to give away Numbers.</p>
+            <p>
+               <pb facs="tcp:95733:40"/>The Holy Bible, containing the Old Teſtament and the New; with Anno<g ref="char:EOLhyphen"/>tations and very exact Parallel Scrip<g ref="char:EOLhyphen"/>tures. To which is annex'd the Har<g ref="char:EOLhyphen"/>mony of the Goſpels; as alſo the Re<g ref="char:EOLhyphen"/>duction of the <hi>Jewiſh</hi> Weights, Coins and Meaſures, to our <hi>Engliſh</hi> Stand<g ref="char:EOLhyphen"/>ards. And a Table of the Promiſes in Scripture. By <hi>Samuel Clark,</hi> Miniſter of the Goſpel. Printed in Folio on a very Fair Letter; the like never be<g ref="char:EOLhyphen"/>fore in one Volume. To which is new<g ref="char:EOLhyphen"/>ly added, a very exact and uſeful Con<g ref="char:EOLhyphen"/>cordance. <hi>Price</hi> 30 s.</p>
+            <p>The Works of the Learned <hi>Iſaac Barrow</hi> D.D. late Maſter of <hi>Trinity Col<g ref="char:EOLhyphen"/>ledge</hi> in <hi>Cambridge.</hi> Publiſhed by the Reverend Dr. <hi>Tillotſon,</hi> late Archbiſhop of <hi>Canterbury.</hi> The Third Volume. Containing Forty five Sermons upon ſeveral Occaſions, compleating his <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Works. <hi>Price</hi> 14 s.</p>
+            <p>Now in the Preſs, and will be pub<g ref="char:EOLhyphen"/>liſhed in <hi>Michaelmas</hi> Term, an Expo<g ref="char:EOLhyphen"/>ſition of the Apoſtles Creed, by the learned Dr. <hi>Iſaac Barrow,</hi> late Maſter of <hi>Trinity</hi> Colledge in <hi>Cambridge;</hi> (ne<g ref="char:EOLhyphen"/>ver before printed, being very different from his Volume of Sermons on it;)
+<pb facs="tcp:95733:41"/>
+to which will be added, his Expoſiti<g ref="char:EOLhyphen"/>on of the Lord's Prayer and the Ten Commandments, <hi>&amp;c.</hi>
+            </p>
+            <p>Practical Diſcourſes upon the Conſi<g ref="char:EOLhyphen"/>deration of our Latter End, and the Danger and Miſchief of Delaying Repentance. By Dr. <hi>Iſaac Barrow,</hi> in 8<hi rend="sup">o</hi> 
+               <hi>Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>The Four Laſt Things, <hi>viz.</hi> Death, Judgment, Heaven and Hell: Practi<g ref="char:EOLhyphen"/>cally conſidered and applied. By <hi>W. Bates,</hi> D. D. in 12<hi rend="sup">o</hi>. <hi>Price</hi> 2 <hi>s.</hi>
+            </p>
+            <p>Sermons of the Forgiveneſs of Sins. On Pſal 130. v. 4. Alſo by Dr. <hi>Bates, Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Enchiridion Medicum:</hi> Or, a Manual of Phyſick. Being a Compendium of the whole Art. In 3 Parts, <hi>viz.</hi> I. Of Diſeaſes of the Head. II. Of Diſeaſes of the Breaſt. III. Of the Diſeaſes of the Belly. Wherein is briefly ſhewed; 1. The Names. 2. The Derivation. 3. The Cauſes. 4. The Signs. 5. The Prog<g ref="char:EOLhyphen"/>noſticks. And 6. A rational Method of Cure. Comprehending the ſubſtance of the more approved Authors both anci<g ref="char:EOLhyphen"/>ent and Modern. Publiſh'd for the Bene<g ref="char:EOLhyphen"/>fit of all Perſons, being fitted to the mean<g ref="char:EOLhyphen"/>eſt Capacity. By <hi>R. Johnſon,</hi> Med. Profeſſ. <hi>Price</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95733:41"/>
+         </div>
+      </back>
+   </text>
+</TEI>
